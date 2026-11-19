@@ -1,0 +1,203 @@
+warehouse_id,warehouse_name,city,state,pincode,capacity_units,manager_name,operational_since
+WH0096,Bhopal Logistics Hub 96,Bhopal,Madhya Pradesh,714650,7301,Avi Kala,2018-12-20
+WH0016,Mysuru Logistics Hub 16,Mysuru,Karnataka,666174,10043,Jagrati Goswami,10-20-2024
+WH0031,Chandigarh Logistics Hub 31,  Chandigarh  ,Chandigarh,307815,18123,Atharv Setty,2021-08-17
+WH0160,Warangal Logistics Hub 160,Warangal,Telangana,298486,7453,Anita Bhalla,2022-09-06
+WH0187,Chennai Logistics Hub 187,Chennai,Tamil Nadu,272935,19959,Yahvi Kari,2020-11-17
+WH0116,Mumbai Logistics Hub 116,Mumbai,Maharashtra,279494 ,15468,Manbir Buch,N/A
+WH0070,Patna Logistics Hub 70,Patna,Bihar,754462,2152,Sarthak Aggarwal,2015-01-04
+WH0173,Mumbai Logistics Hub 173,Mumbai,Maharashtra,248245,18142,Mohini Roy,2018-09-22
+WH0162,Vijayawada Logistics Hub 162,Vijayawada,Andhra Pradesh,426312,12898,Hredhaan Nori,2017-03-05
+WH0046,Thiruvananthapuram Logistics Hub 46,Thiruvananthapuram,Kerala,705621,19682,Niharika Raju,2016-12-03
+WH0067,Guwahati Logistics Hub 67,GUWAHATI,Assam,766660,13297,Kamya Mall,2019-01-23
+WH0151,Madurai Logistics Hub 151,Madurai,Tamil Nadu,280746,7463,Aarini Ray,2016-11-13
+WH0167,Gurugram Logistics Hub 167,Gurugram, Haryana ,558965,14700,Frederick Padmanabhan,2018-04-29
+WH0079,Jodhpur Logistics Hub 79,Jodhpur,Rajasthan,391439,12509,Luke Menon,2017-03-31
+WH0196,Kochi Logistics Hub 196,Kochi,Kerala,211155,6085,Naksh Mallick,2015-10-10
+WH0096,Bhopal Logistics Hub 96,Bhopal,Madhya Pradesh,714650,7301,Avi Kala,2018-12-20
+WH0057,Gurugram Logistics Hub 57,Gurugram,HR,140024,7683,Pooja Dhawan,2019-01-01
+WH0154,Indore Logistics Hub 154,Indore,Madhya Pradesh,353015,4427,Kiaan Palan,2020-05-28
+WH0083,Guwahati Logistics Hub 83,Guwahati,Assam,176844,7581,Bhavya Parsa,2020-06-15
+WH0069,Coimbatore Logistics Hub 69,Coimbatore,Tamil Nadu,204830,10157,Ekansh Kala,2020-08-19
+WH0126,Guwahati Logistics Hub 126,Guwahati,Assam,204298,1793,Zashil Dugar,2018-08-05
+WH0017,Surat Logistics Hub 17,Surat,Gujarat,181390,16264,Kai Prakash,2019-04-17
+WH0185,Chennai Logistics Hub 185,Chennai,Tamil Nadu,472308,10019,Manthan Mallick,2019-06-25
+WH0094,Indore Logistics Hub 94,Indore,Madhya Pradesh,629118,-2056,Umang Mistry,2017-11-02
+WH0066,Patna Logistics Hub 66,Patna,Bihar,418837,8873,Nandini Biswas,2016-04-04
+WH0061,Lucknow Logistics Hub 61,LUCKNOW,Uttar Pradesh,660933,2845,Utkarsh Vohra,2021-06-25
+WH0085,Hubli Logistics Hub 85,Hubli,Karnataka,130226,1434,Ekanta Deo,2021-06-30
+WH0068,Mumbai Logistics Hub 68,Mumbai,Maharashtra,347623,3067,Aahana D’Alia,2016-11-29
+WH0127,Nashik Logistics Hub 127,Nashik,Maharashtra,795072,15991,Zinal Mangat,2019-09-27
+WH0141,Mumbai Logistics Hub 141,Mumbai,Maharashtra,429413,0,Ekanta Sane,2016-03-23
+WH0010,Bengaluru Logistics Hub 10,Bengaluru,Karnataka,175632,15378,Zayan Rattan,2021-03-04
+WH0019,New Delhi Logistics Hub 19,New Delhi,Delhi,408769,16735,Elijah Sastry,2015-08-25
+WH0056,Nashik Logistics Hub 56,Nashik,Maharashtra,182643,7347,Arjun Madan,2016-05-17
+WH0076,Chandigarh Logistics Hub 76,Chandigarh,Chandigarh,302341,-11392,Yauvani Bala,2015-05-05
+WH0165,Noida Logistics Hub 165,Noida,Uttar Pradesh,512124,16524,Dev Shere,2017-10-03
+WH0105,Rajkot Logistics Hub 105,Rajkot,Gujarat,506024,12692,Jagrati Atwal,2017-01-13
+WH0137,Madurai Logistics Hub 137,Madurai,-,156055,9811,Sai Virk,2020-07-27
+WH0139,Nashik Logistics Hub 139,NASHIK,Maharashtra,793136,9350,Dev Savant,2017-04-01
+WH0166,Ahmedabad Logistics Hub 166,Ahmedabad,Gujarat,230931,7567,Januja Date,2021-10-24
+WH0077,Hubli Logistics Hub 77,Hubli,Karnataka,302098,19748,Christopher Dua,2020-04-01
+WH0080,Bhopal Logistics Hub 80,Bhopal,Madhya Pradesh,255089,1358,Wriddhish Kibe,2020-08-11
+WH0200,Dehradun Logistics Hub 200,Dehradun,Uttarakhand,261115,4073,Amaira Naidu,2016-12-06
+WH0039,Bhubaneswar Logistics Hub 39,Bhubaneswar,Odisha,272930,4674,Noah Minhas,2019-03-19
+WH0025,Coimbatore Logistics Hub 25,Coimbatore,Tamil Nadu,598851,13583,Simon Vaidya,2022-04-09
+WH0123,Vadodara Logistics Hub 123,Vadodara,Gujarat,256847,3201,Madhavi Ramakrishnan,2021-01-04
+WH0198,Kolkata Logistics Hub 198,Kolkata,West Bengal,419346,16205,Mahika Balay,2017-12-14
+WH0030,Madurai Logistics Hub 30,Madurai,Tamil Nadu,542519,13599,Zashil Kadakia,2020-05-16
+WH0020,Faridabad Logistics Hub 20,Faridabad,Haryana,564908,18255,Darika Chatterjee,2016-07-15
+WH0145,Faridabad Logistics Hub 145,Faridabad,Haryana,183484,2671,Ranbir Balakrishnan,2015-06-15
+WH0087,Udaipur Logistics Hub 87,UDAIPUR,Rajasthan,316812,7180,Vidhi Bala,2017-12-27
+WH0115,Hubli Logistics Hub 115,Hubli,Karnataka,471531,17236,Tarak Nanda,2016-10-11
+WH0176,Pune Logistics Hub 176,Pune,Maharashtra,522383,6639,Nandini Chawla,2018-06-25
+WH0006,Agra Logistics Hub 6,Agra,Uttar Pradesh,811155,3167,Balveer Maharaj,2019-07-12
+WH0128,Gurugram Logistics Hub 128,Gurugram,Haryana,852712,6154,Vanya Banik,2019-12-23
+WH0118,Jodhpur Logistics Hub 118,Jodhpur,Rajasthan,191685,7322,Yutika Goda,2015-07-31
+WH0074,Vadodara Logistics Hub 74,Vadodara,Gujarat,852989,10050,Hemang Krishnamurthy,2017-10-27
+WH0142,Udaipur Logistics Hub 142,Udaipur,Rajasthan,155011,14422,Omkaar Grewal,2022-04-11
+WH0099,Jaipur Logistics Hub 99,Jaipur,Rajasthan,654863,12052,Triveni Edwin,2022-05-20
+WH0175,Ludhiana Logistics Hub 175,Ludhiana,Punjab,213883,8206,Vasudha Barad,2019-08-03
+WH0097,Gurugram Logistics Hub 97,Gurugram,Haryana,134491,8299,Thomas Goda,2018-08-16
+WH0172,Mumbai Logistics Hub 172,Mumbai,Maharashtra,127722,9990,Onveer Nazareth,2018-12-18
+WH0098,Madurai Logistics Hub 98,Madurai,Tamil Nadu,454211,12457,Yatan Bir,2021-01-21
+WH0032,Jaipur Logistics Hub 32,Jaipur,Rajasthan,309031,6822,Hardik Maharaj,2020-07-03
+WH0013,Delhi Logistics Hub 13,Delhi,Delhi,628466,7153,Tristan Kumer,2020-02-22
+WH0036,Visakhapatnam Logistics Hub 36,Visakhapatnam,Andhra Pradesh,312423,15432,Garima Pal,2020-05-10
+WH0120,Kochi Logistics Hub 120,Kochi,Kerala,664701,15281,Bishakha Garg,2018-06-03
+WH0043,Howrah Logistics Hub 43,Howrah,West Bengal,829416,5504,Megha Singhal,2017-09-23
+WH0192,Chennai Logistics Hub 192,Chennai,Tamil Nadu,719168,18366,Viraj Sarma,2018-08-06
+WH0091,Howrah Logistics Hub 91,Howrah,west bengal,126797 ,1360,Jack Chaudry,2017-03-02
+WH0138,Bengaluru Logistics Hub 138,Bengaluru,Karnataka,227654,2215,Urmi Memon,2017-07-15
+WH0052,Hyderabad Logistics Hub 52,Hyderabad,Telangana,553043,14639,Chaitaly Lala,2021-09-21
+WH0129,Nashik Logistics Hub 129,Nashik,Maharashtra,405366,9864,Omya Dube,2016-08-03
+WH0164,Hyderabad Logistics Hub 164,Hyderabad,Telangana,223742,0,Janani Bhat,2021-08-05
+WH0042,Hubli Logistics Hub 42,Hubli,Karnataka,491485,2524,Ekta Bhatt,2016-08-03
+WH0119,Amritsar Logistics Hub 119,Amritsar,Punjab,558551,5635,Omkaar Dewan,2021-05-18
+WH0114,Chandigarh Logistics Hub 114,Chandigarh,Chandigarh,254434,15459,Kala Pandya,2015-10-05
+WH0027,Jodhpur Logistics Hub 27,Jodhpur,Rajasthan,368862,17608,Gayathri Bose,2019-06-03
+WH0163,Nagpur Logistics Hub 163,Nagpur,Maharashtra,130442,3212,Pranav Singhal,2021-06-10
+WH0101,Hyderabad Logistics Hub 101,Hyderabad,Telangana,306130,14157,Vedant Pandey,2018-07-26
+WH0112,Hubli Logistics Hub 112,Hubli,Karnataka,730590,15966,Oni Varghese,2021-08-11
+WH0003,Nashik Logistics Hub 3,NASHIK,Maharashtra,522126,6493,Arin Patil,2018-07-14
+WH0078,Hyderabad Logistics Hub 78,Hyderabad,Telangana,806695,12963,Liam Wable,2017-11-15
+WH0047,Vadodara Logistics Hub 47,Vadodara,Gujarat,523792,10722,Aarnav Menon,2015-08-15
+WH0190,Rajkot Logistics Hub 190,Rajkot,Gujarat,652642,15551,Finn Mander,2019-09-11
+WH0194,Mumbai Logistics Hub 194,Mumbai,Maharashtra,347321,3029,Udyati Edwin,2020-09-04
+WH0086,Chennai Logistics Hub 86,Chennai,Tamil Nadu,461140,3201,Jagdish Bhatia,2015-01-30
+WH0136,Kolkata Logistics Hub 136,Kolkata,West Bengal,275006,2600,Hemang Sankaran,2017-08-14
+WH0037,Warangal Logistics Hub 37,Warangal,Telangana,467527,2209,Yug Desai,2018-06-16
+WH0193,Bhopal Logistics Hub 193,Bhopal,Madhya Pradesh,436174,4188,Akshay Anne,2017-08-15
+WH0062,Thiruvananthapuram Logistics Hub 62,Thiruvananthapuram,Kerala,467785,4154,Vihaan Singhal,2020-02-17
+WH0023,Kochi Logistics Hub 23,Kochi,Kerala,468536,14433,Ria Bobal,2021-04-18
+WH0133,Siliguri Logistics Hub 133,Siliguri,West Bengal,305757,9939,Victor Chand,2017-02-20
+WH0102,Noida Logistics Hub 102,Noida,Uttar Pradesh,345224,3468,Ubika Guha,2020-03-23
+WH0034,Kanpur Logistics Hub 34,Kanpur,Uttar Pradesh,NULL,4817,Faras Divan,2018-07-16
+WH0012,Vijayawada Logistics Hub 12,Vijayawada,Andhra Pradesh,466004,5638,Arin Parekh,2015-03-30
+WH0197,Udaipur Logistics Hub 197,Udaipur,Rajasthan,147146,7673,Gauri Sama,2019-10-12
+WH0177,Bhopal Logistics Hub 177,  Bhopal  ,Madhya Pradesh,260413,4561,Charles Sagar,2021-03-02
+WH0007,Mumbai Logistics Hub 7,Mumbai,Maharashtra,345172,14965,Laban Banerjee,2020-03-27
+WH0028,Udaipur Logistics Hub 28,Udaipur,Rajasthan,331109,7365,Jairaj Parikh,2019-03-27
+WH0121,Siliguri Logistics Hub 121,Siliguri,West Bengal,339576,5144,Rayaan Sant,2015-12-13
+WH0005,Varanasi Logistics Hub 5,Varanasi,Uttar Pradesh,702119,12115,Yauvani Upadhyay,2021-03-24
+WH0033,Guwahati Logistics Hub 33,Guwahati,Assam,301524,19564,Aayush Baral,2021-10-18
+WH0144,Udaipur Logistics Hub 144,Udaipur,Rajasthan,784520,8604,Zarna Shere,2016-05-29
+WH0147,Amritsar Logistics Hub 147,Amritsar,Punjab,470385,11981,Aarush Tiwari,2017-09-17
+WH0110,Chandigarh Logistics Hub 110,Chandigarh,Chandigarh,244884,5534,Odika Misra,2018-02-27
+WH0146,Kanpur Logistics Hub 146,Kanpur,Uttar Pradesh,591128,16101,Jairaj Doctor,2017-08-26
+WH0011,Amritsar Logistics Hub 11,Amritsar,Punjab,728596,12043,Frederick Mander,2021-09-04
+WH0063,Chennai Logistics Hub 63,Chennai,Tamil Nadu,340063,15072,Oni Memon,2021-03-18
+WH0113,Udaipur Logistics Hub 113,Udaipur,Rajasthan,436286,16901,Sai Puri,2020-07-23
+WH0148,Chandigarh Logistics Hub 148,Chandigarh,CHANDIGARH,330352,12399,Wyatt Sen,2019-08-25
+WH0168,Agra Logistics Hub 168,Agra,Uttar Pradesh,802817,4955,Udarsh Bajaj,2016-03-15
+WH0001,Patna Logistics Hub 1,Patna,Bihar,800642,6941,Yadavi Chakrabarti,2017-03-23
+WH0182,Hyderabad Logistics Hub 182,Hyderabad,Telangana,187107,19499,Jackson Wable,2015-06-20
+WH0155,Vadodara Logistics Hub 155,Vadodara,Gujarat,515856 ,2352,Raksha Srinivasan,2021-12-27
+WH0071,Noida Logistics Hub 71,Noida,Uttar Pradesh,387490,3709,Nitesh Saran,2018-03-21
+WH0125,Visakhapatnam Logistics Hub 125,Visakhapatnam,Andhra Pradesh,198792,19647,Gagan Yadav,2019-08-15
+WH0065,Surat Logistics Hub 65,Surat,Gujarat,243490,8695,Kai Seth,  
+WH0045,Kolkata Logistics Hub 45,Kolkata,West Bengal,787447,10002,Meera Sekhon,2021-11-12
+WH0143,Coimbatore Logistics Hub 143,Coimbatore,Tamil Nadu,323030,13722,Warinder Dhawan,2015-02-16
+WH0029,Lucknow Logistics Hub 29,Lucknow,Uttar Pradesh,836691,2591,Tripti Dalal,2022-07-06
+WH0041,Indore Logistics Hub 41,Indore,Madhya Pradesh,191837,5630,Wyatt Chaudry,2022-11-10
+WH0109,Chennai Logistics Hub 109,Chennai,Tamil Nadu,647104,18011,Turvi Brahmbhatt,2016-03-26
+WH0157,Surat Logistics Hub 157,Surat,Gujarat,178580,2037,Unnati Ghose,2020-05-15
+WH0124,Faridabad Logistics Hub 124,Faridabad,Haryana,385228,2651,Zansi Mukherjee,2016-05-11
+WH0181,Kochi Logistics Hub 181,Kochi,Kerala,591101,13946,Sudiksha Sharma,2019-08-25
+WH0026,Siliguri Logistics Hub 26,Siliguri,West Bengal,132659,13239,Oeshi Kapadia,2017-11-22
+WH0024,Gurugram Logistics Hub 24,Gurugram,Haryana,560607,-16101,Jeremiah Roy,2020-11-03
+WH0153,Bhubaneswar Logistics Hub 153,Bhubaneswar,Odisha,329696,19364,Jhalak Kapadia,2018-12-27
+WH0149,Ranchi Logistics Hub 149,Ranchi,Jharkhand,651330,11210,Jeevika Luthra,2015-03-06
+WH0082,Madurai Logistics Hub 82,Madurai,Tamil Nadu,719314,12935,Samar Dani,2019-07-06
+WH0040,Ranchi Logistics Hub 40,Ranchi,Jharkhand,195430,2551,Gautami Varughese,2018-12-07
+WH0171,Kanpur Logistics Hub 171,Kanpur,Uttar Pradesh,583257,10169,Faraj Narula,2015-12-12
+WH0048,Hubli Logistics Hub 48,Hubli,Karnataka,453795,14885,Gagan Kota,2018-05-07
+WH0095,Jaipur Logistics Hub 95,Jaipur,Rajasthan,797620,2641,Jai Kothari,2021-09-20
+WH0156,Rajkot Logistics Hub 156,Rajkot,Gujarat,355047,18844,Jairaj Oommen,2016-09-07
+WH0044,Ludhiana Logistics Hub 44,Ludhiana,Punjab,834998,4384,Lakshmi Zacharia,2016-12-06
+WH0140,Vijayawada Logistics Hub 140,Vijayawada,Andhra Pradesh,681130,16362,Warda Ramachandran,2022-12-29
+WH0004,Chennai Logistics Hub 4,Chennai,Tamil Nadu,716689,13499,Manthan Raman,2015-07-20
+WH0106,Bengaluru Logistics Hub 106,Bengaluru,Karnataka,297104,16306,Yatan Grewal,2017-08-11
+WH0054,Rajkot Logistics Hub 54,Rajkot,Gujarat,732011,19447,Vasudha Goswami,2018-03-17
+WH0134,Kolkata Logistics Hub 134,Kolkata,West Bengal,557476,10998,Geetika Kadakia,2016-01-09
+WH0183,Kanpur Logistics Hub 183,Kanpur,Uttar Pradesh,685763,13129,Shivani Oza,2016-07-04
+WH0159,Ranchi Logistics Hub 159,Ranchi,Jharkhand,458222,-6218,Varsha Tata,2015-08-15
+WH0188,Indore Logistics Hub 188,Indore,Madhya Pradesh,676119,9579,Hemang Grover,2021-04-05
+WH0050,Madurai Logistics Hub 50,Madurai,Tamil Nadu,528346,14897,Warda Krishnan,2015-02-02
+WH0081,Agra Logistics Hub 81,agra,Uttar Pradesh,677970,19325,Udyati Palla,2018-10-07
+WH0035,Bhopal Logistics Hub 35,Bhopal,Madhya Pradesh,652745,1732,Ubika Lanka,2019-10-17
+WH0008,Rajkot Logistics Hub 8,Rajkot,Gujarat,695877,4988,Yasti Bhardwaj,2021-12-15
+WH0111,Pune Logistics Hub 111,Pune,Maharashtra,4854,17726,Oscar Uppal,2020-06-13
+WH0092,Lucknow Logistics Hub 92,Lucknow,Uttar Pradesh,Unknown,-9009,Saanvi Banerjee,2020-08-03
+WH0084,Indore Logistics Hub 84,Indore,Madhya Pradesh,267371,1884,Samarth Ratti,2016-03-24
+WH0179,Faridabad Logistics Hub 179,Faridabad,Haryana,720182,19517,Bakhshi Parsa,2019-11-23
+WH0184,Hubli Logistics Hub 184,Hubli,Karnataka,358021,11160,Ranveer Anne,2019-03-28
+WH0090,Hubli Logistics Hub 90,Hubli,Karnataka,668625,18552,Amruta Mutti,2017-07-06
+WH0009,Ahmedabad Logistics Hub 9,Ahmedabad,Gujarat,693423,4501,Jagvi Nazareth,2017-07-03
+WH0014,Pune Logistics Hub 14,Pune,Maharashtra,467364,10736,Kevin Narayanan,2017-07-22
+WH0060,Vadodara Logistics Hub 60,Vadodara,Gujarat,NA,18908,Zayan Vasa,2021-02-03
+WH0174,Kolkata Logistics Hub 174,Kolkata,West Bengal,481313,7206,Isaac Sengupta,2015-02-17
+WH0132,Hyderabad Logistics Hub 132,Hyderabad,Telangana,480227,0,Geetika Zachariah,2022-07-03
+WH0018,Hyderabad Logistics Hub 18,Hyderabad,Telangana,769561,1847,Keya Nadig,2016-10-31
+WH0073,Jodhpur Logistics Hub 73,Jodhpur,Rajasthan,539333,13020,Osha Bhatt,2018-11-22
+WH0178,New Delhi Logistics Hub 178,New Delhi,Delhi,309893,4447,William Yogi,2018-11-15
+WH0135,Agra Logistics Hub 135,Agra,Uttar Pradesh,669343,11922,Fariq Badal,2016-12-10
+WH0169,Ludhiana Logistics Hub 169,Ludhiana,Punjab,292603,9249,Nimrat Gade,2015-08-26
+WH0186,Hubli Logistics Hub 186,Hubli,Karnataka,529171,8535,Kevin Sankar,2015-12-12
+WH0064,Chandigarh Logistics Hub 64,Chandigarh,Chandigarh,363928,5660,Maya Narayan,2015-03-27
+WH0055,Siliguri Logistics Hub 55,Siliguri,West Bengal,829707,5284,Yahvi Nayar,2015-12-01
+WH0108,Dehradun Logistics Hub 108,Dehradun,Uttarakhand,295916,6115,Arunima Rana,2019-10-30
+WH0051,Bhopal Logistics Hub 51,Bhopal,Madhya Pradesh,260596,4403,Warjas Gole,2016-06-11
+WH0199,Udaipur Logistics Hub 199,Udaipur,Rajasthan,706829,6298,Widisha Sachar,2017-11-15
+WH0170,Madurai Logistics Hub 170,Madurai,Tamil Nadu,246106,12057,Joshua Barman,2019-02-08
+WH0059,Kolkata Logistics Hub 59,Kolkata,West Bengal,483109,7831,Udant Sangha,2016-01-24
+WH0049,Dehradun Logistics Hub 49,Dehradun,Uttarakhand,752614,17727,Vasatika Chawla,2020-05-23
+WH0089,Faridabad Logistics Hub 89,Faridabad,Haryana,378980,6245,Jonathan Vasa,2018-03-28
+WH0022,Nagpur Logistics Hub 22,Nagpur,Maharashtra,161070,9793,Barkha Vasa,2020-04-15
+WH0058,Agra Logistics Hub 58,Agra,Uttar Pradesh,1452050,2859,Gautam Sampath,2015-11-28
+WH0161,Mysuru Logistics Hub 161,Mysuru,Karnataka,-,5351,Joshua Narayanan,2020-11-06
+WH0195,Vijayawada Logistics Hub 195,Vijayawada,Andhra Pradesh,742570,12840,Jagdish Lala,2015-03-15
+WH0130,Ludhiana Logistics Hub 130,Ludhiana,Punjab,691734,8251,Anthony Kibe,2021-11-17
+WH0038,Vadodara Logistics Hub 38,Vadodara,Gujarat,544561,16329,Aarna Natt,2022-05-25
+WH0158,Siliguri Logistics Hub 158,Siliguri,West Bengal,573023,19590,Inaya Dayal,2016-08-15
+WH0191,Chandigarh Logistics Hub 191,Chandigarh,Chandigarh,435378,0,Noah Pandey,2015-11-07
+WH0002,Noida Logistics Hub 2,Noida,Uttar Pradesh,557428,2827,Veer Mitra,2016-10-19
+WH0053,Nagpur Logistics Hub 53,Nagpur,Maharashtra,184014,3429,Upasna Brar,2015-07-13
+WH0150,Surat Logistics Hub 150,Surat,Gujarat,PIN693449,16403,Urvashi Buch,2016-08-31
+WH0131,Lucknow Logistics Hub 131,Lucknow,Uttar Pradesh,247911,19700,Chaaya Kannan,2019-01-31
+WH0152,Hubli Logistics Hub 152,Hubli,Karnataka,274727,7086,Gavin Yadav,2015-05-23
+WH0104,Hyderabad Logistics Hub 104,Hyderabad,Telangana,201784,8125,Eiravati Bose,2017-12-01
+WH0100,Kochi Logistics Hub 100,Kochi,Kerala,590144,11255,Lucky Misra,2015-01-01
+WH0117,Guwahati Logistics Hub 117,Guwahati,Assam,319044,18372,Akshay Gandhi,2021-10-27
+WH0088,Udaipur Logistics Hub 88,Udaipur,Rajasthan,334715,1975,Shaurya Nayak,2022-01-30
+WH0075,Coimbatore Logistics Hub 75,Coimbatore,Tamil Nadu,458418,18513,Riya Krish,2019-04-16
+WH0122,Bhopal Logistics Hub 122,Bhopal,Madhya Pradesh,575154,14926,Anvi Mutti,2017-05-09
+WH0016,Mysuru Logistics Hub 16,Mysuru,Karnataka,666174,10043,Jagrati Goswami,10-20-2024
+WH0021,Dehradun Logistics Hub 21,Dehradun,Uttarakhand,232723,2087,Dalbir Chana,2017-09-04
+WH0189,Patna Logistics Hub 189,Patna,Bihar,2499,2677,Hemal Bobal,2017-04-13
+WH0072,Hubli Logistics Hub 72,Hubli,Karnataka,527975,18320,Hemani Setty,2015-11-19
+WH0107,Madurai Logistics Hub 107,Madurai,Tamil Nadu,673317,14602,Widisha Zacharia,2021-08-12
+WH0015,Thiruvananthapuram Logistics Hub 15,Thiruvananthapuram,Kerala,479096,12917,Agastya Sarkar,2016-08-11
+WH0093,Pune Logistics Hub 93,Pune,Maharashtra,184037,15951,Ekaja De,2022-05-19
+WH0180,Mumbai Logistics Hub 180,Mumbai,Maharashtra,241151,6939,Ucchal Mangal,2016-03-22
+WH0103,Nashik Logistics Hub 103,Nashik,Maharashtra,827933,18332,Bhavika Cheema,2021-09-16

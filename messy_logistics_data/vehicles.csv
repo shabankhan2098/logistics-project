@@ -1,0 +1,1516 @@
+vehicle_id,vehicle_number,vehicle_type,make,year,capacity_kg,status
+VEH00052,UP45YA5539,mini truck,Mahindra,2012,1496,Active
+VEH00169,tn84qw0499,Mini Truck,Force Motors,2014,837,Active
+VEH01469,WB10IT1846,mini truck,Tata,2025,839,Retired
+VEH00927,WB84QX6779,Tempo,Piaggio,2019,2970,Active
+VEH00423,OD17WS3915,Pickup Van,Piaggio,2014,999,NULL
+VEH01091,UP37OB7006,Two-Wheeler,Force Motors,2018,5,Under Maintenance
+VEH00586,PB51SS5254,Two-Wheeler,Eicher,2016,24,Active
+VEH00221,TG47PC9571,Mini Truck,Force Motors,2024,1220,Active
+VEH01468,OD78OP5989,  Mini Truck  ,Bajaj,2021,773,Under Maintenance
+VEH01441,WB92MM3165,Pickup Van,Force Motors,2017,606,Active
+VEH01147,BR86RH9113,Tempo,Bajaj,2016,1156,Retired
+VEH00050,GJ54ZB1277,Container Truck,Piaggio,2025,6524,Under Maintenance
+VEH00536,od37an3496,Container Truck,Mahindra,2025,18854,Active
+VEH00176,JH60OW9563,Pickup Van,Ashok Leyland,2012,544,Under Maintenance
+VEH01076,HR59KU8114,Trailer,Mahindra,2024,12201,Active
+VEH00406,KA10NP5576,Tempo,Eicher,2020,2112,Under Maintenance
+VEH00847,AP45SM1592,Tempo,Tata,2023,1691,Active
+VEH00599,KA35UA5736,Trailer,Eicher,2019,17295,Active
+VEH01494,RJ91QD9232,Three-Wheeler,Bajaj,2022,106,Under Maintenance
+VEH00939,UP93VK4196,Trailer,Bajaj,2017,25257,Active
+VEH01486,OD67FZ0385,Tempo,Eicher,2021,2792,Active
+VEH00204,DL25SA6259,Tempo,Ashok Leyland,2015,1643,Active
+VEH01035,CH08GA1311,Pickup-Van,Piaggio,2017,1056,Retired
+VEH00298,TN41GK4954,Trailer,Piaggio,2016,25527,Under Maintenance
+VEH00454,TG96AJ5085,Tempo,Ashok Leyland,2022,2490,Under Maintenance
+VEH00368,TN80PY6490,Mini Truck,Force Motors,2012,1491,Under Maintenance
+VEH00942,PB42PC9846,Tempo,Eicher,2020,2827,Active
+VEH00238,UP33ZR8004,Trailer,Ashok Leyland,2016,12678,Active
+VEH01165,UK16OU0720,Container Truck,Bajaj,2021,8543,Active
+VEH00678,PB91TY5774,2 Wheeler,Tata,2022,25,Active
+VEH00124,KL08BA2706,Trailer,Piaggio,2023,18761,Retired
+VEH00707,DL70MQ8391,Trailer,Bajaj,2024,25080,Under Maintenance
+VEH00603,AP17LX4170,Two-Wheeler,Mahindra,2024,29,Retired
+VEH00463,BR20TE3528,Tempo,Bajaj,2018,1992,Under Maintenance
+VEH00911,JH45WU5099,Container Truck,Piaggio,2018,5071,Under Maintenance
+VEH01342,MP29BE0958,Trailer,Force Motors,2024,26757,Retired
+VEH01297,KL59XU9657,Mini Truck,Mahindra,2016,990,Active
+VEH00077,CH59XW7021,Pickup Van,Tata,2016,890,Active
+VEH01170,PB37UI7128,Three-Wheeler,Tata,1998,75,Active
+VEH01135,MH25OW3742,Three-Wheeler,Ashok Leyland,2012,71,Under Maintenance
+VEH00487,BR98AC1829,Three-Wheeler,Mahindra,2014,82,Active
+VEH00462,MH89TI6933,Pickup Van,Tata,2025,757,Active
+VEH01336,GJ60RE9624,Two-Wheeler,Mahindra,2019,28,Active
+VEH01312,MH58XE9882,Pickup Van,Bajaj,2012,1005,Retired
+VEH01484,PB02TJ3492,Pickup Van,Bajaj,2019,896,Retired
+VEH00839,UP31NV3362,Three-Wheeler,Eicher,2017,131,Active
+VEH00782,CH77HX8707,Pickup Van,Force Motors,2013,1096,Active
+VEH00343,DL77SP1721,Pickup Van,Tata,2019,650,Under Maintenance
+VEH01098,BR35VA7640,Two-Wheeler,Piaggio,2022,22,Under Maintenance
+VEH01383,UK13FK6901,Trailer,Piaggio,2017,22064,Retired
+VEH00071,UP45ZT7682,Tempo,Bajaj,2019,2984,Retired
+VEH01217,UK63FV4455,Three-Wheeler,Mahindra,2012,70,Retired
+VEH00991,AS87LZ2901,Tempo,Force Motors,2012,2410,Active
+VEH01463,JH51VU0156,Mini Truck,Mahindra,2025,1423,Active
+VEH01289,HR78NS3691,Pickup Van,Piaggio,2022,829,Active
+VEH00544,MP36PM1134,Mini Truck,Ashok Leyland,2023,1102,Retired
+VEH00943,AS65XF2096,Two-Wheeler,Tata,2021,7,Retired
+VEH00904,GJ86VK5363,Trailer,Bajaj,2024,29710,Under Maintenance
+VEH00417,RJ92NI1011,Tempo,Tata,2023,1067,Active
+VEH01316,HR91AN4882,Container Truck,Tata,2015,14406,Active
+VEH00965,UP26PE4152,Mini Truck,Mahindra,2018,1005,Retired
+VEH00125,TN10CZ2682,Two-Wheeler,Mahindra,2015,21,Active
+VEH00494,HR48CP4709,Tempo,Bajaj,2018,1000,Under Maintenance
+VEH01014,KA20VH2462,Mini Truck,Eicher,2018,1499,Under Maintenance
+VEH00424,OD26OU6175,Trailer,Eicher,2018,14329,Active
+VEH00619,UK04QN2062,Pickup Van,Force Motors,2019,640,Active
+VEH01049,OD41SN9392,Two-Wheeler,Tata,2024,28,Retired
+VEH00789,CH28QM9135,Container Truck,Bajaj,2021,16662,Under Maintenance
+VEH01277,RJ92SZ4625,Three-Wheeler,Force Motors,2016,71,Active
+VEH00621,WB13UY1791,Mini Truck,Tata,2024,1442,Active
+VEH00893,PB08SI8572,Container Truck,Tata,2015,10695,Active
+VEH01358,uk46ss9356,Two-Wheeler,Piaggio,2031,16,Under Maintenance
+VEH00068,TG83SJ9943,Trailer,Mahindra,2014,15062,Active
+VEH00768,KA58UC9550,Three-Wheeler,Mahindra,2017,141,Retired
+VEH01481,KL80EN9131,Mini Truck,Bajaj,2022,897,Active
+VEH01068,PB94UY5082,NULL,Tata,2025,167,Retired
+VEH00290,KA45BG1022,Trailer,Piaggio,2020,22715,Retired
+VEH01236,MP68GC0235,Three-Wheeler,Piaggio,2012,225,Under Maintenance
+VEH00825,TG20HK8898,Two-Wheeler,Eicher,2020,13,Retired
+VEH01094,TN38ON6747,Two-Wheeler,Force Motors,2018,11,Active
+VEH00241,MP04QJ3973,Two-Wheeler,Mahindra,2012,26,Retired
+VEH00620,PB76EI3828,Three-Wheeler,Piaggio,2015,144,Active
+VEH01182,UP72AF7945,Trailer,Eicher,2012,23157,Active
+VEH00572,JH63UC4993,Tempo,Force Motors,2025,1158,Active
+VEH00889,PB92YC2714,Container Truck,Mahindra,2015,14183,Retired
+VEH00986,jh12bj5932,Pickup Van,Tata,2024,1174,Active
+VEH01152,RJ39OG3824,Three-Wheeler,Piaggio,2020,55,Under Maintenance
+VEH00498,OD57TH9876,Two-Wheeler,Ashok Leyland,2025,28,Active
+VEH00272,AP66YY0595,Container Truck,Force Motors,2013,10553,Active
+VEH00307,KL07LO2374,Pickup Van,Tata,2020,1123,Active
+VEH01175,BR54UC5916,Container Truck,Force Motors,2022,11235,Active
+VEH00354,TG73ZZ3828,Trailer,Ashok Leyland,2012,15210,Active
+VEH00352,UK04AZ5094,Pickup Van,Mahindra,2024,958,Active
+VEH00480,gj60ra2085,Three-Wheeler,Force Motors,2013,145,Active
+VEH00812,PB82AH8718,Mini Truck,Mahindra,2021,950,  Retired  
+VEH00030,KL61GR3888,Three-Wheeler,Eicher,2023,145,Active
+VEH01459,KL43DG6084,Three-Wheeler,Eicher,2016,295,Active
+VEH00924,MP05BP1982,Pickup Van,Bajaj,2023,775,Active
+VEH01191,JH63GN1164,Tempo,Ashok Leyland,2022,1801,Retired
+VEH00066,PB03JG4441,Tempo,Eicher,2014,2103,Active
+VEH01051,JH15PN6593,Tempo,Bajaj,2016,2255,Under Maintenance
+VEH00142,BR16DR3598,Three-Wheeler,Ashok Leyland,2017,56,Under Maintenance
+VEH00874,CH34BW5492,Tempo,Ashok Leyland,2020,1139,Active
+VEH01121,AS12YZ1859,Three-Wheeler,Ashok Leyland,2014,224,Active
+VEH00568,TG20CN4701,Pickup Van,Eicher,2018,938,Active
+VEH01451,OD64QT5832,Trailer,Force Motors,2023,18477,Active
+VEH01284,JH74QK2968,Three-Wheeler,Mahindra,2018,112,Active
+VEH01471,JH69OX5972,Tempo,Force Motors,2023,2321,Under Maintenance
+VEH00317,TG11KK8318,CONTAINER TRUCK,Eicher,2025,6085,Active
+VEH00491,ka05jv4746,Mini Truck,Mahindra,2018,1220,Active
+VEH00722,RJ63SG6412,Mini Truck,Tata,2014,709,Active
+VEH01337,UP77RB3272,Mini Truck,Bajaj,2018,844,Active
+VEH00971,KA37MM0629,Trailer,Eicher,2019,19754,Active
+VEH01141,BR96EM0589,Three-Wheeler,Mahindra,2022,238,Active
+VEH01262,TG29YR5787,Three-Wheeler,Force Motors,1998,126,Active
+VEH00185,MH69KB9896,Trailer,Tata,2018,20752,Retired
+VEH01361,KL35ZT7289,Two-Wheeler,Piaggio,2024,5,ACTIVE
+VEH01036,AS36EZ4552,Tempo,Bajaj,2014,2179,Under Maintenance
+VEH00725,HR89QM8600,Pickup Van,Piaggio,2022,1189,Active
+VEH00275,MP49JM6940,  Two-Wheeler  ,Eicher,2014,27,Retired
+VEH00045,OD53QH1681,Mini Truck,Mahindra,2017,1356,Under Maintenance
+VEH00060,BR80XW2756,Pickup Van,Ashok Leyland,2021,779,Retired
+VEH01055,AS45LG0240,Pickup Van,Bajaj,2018,525,Retired
+VEH00811,HR50DJ2195,Trailer,Mahindra,2023,12869,Active
+VEH00024,AS08KD3590,Trailer,Force Motors,2016,24352,Active
+VEH00579,JH90NP4323,THREE WHEELER,Ashok Leyland,2020,79,Active
+VEH01232,UK05QI3934,Two-Wheeler,Tata,2016,21,Active
+VEH00248,PB36NA3691,Pickup Van,Mahindra,2016,633,Retired
+VEH00757,AP97LQ2725,Pickup Van,Force Motors,2019,774,Active
+VEH00116,AS02MH0025,Tempo,Force Motors,2022,1874,Active
+VEH00434,OD20UN6599,Tempo,Tata,2023,1670,Retired
+VEH00355,DL93AT9654,Two-Wheeler,Ashok Leyland,2013,16,Active
+VEH01396,AS55UV8529,Pickup Van,Bajaj,2021,645,Active
+VEH00375,TG34WV1441,Tempo,Force Motors,2015,1903,Under Maintenance
+VEH00753,TG56RD1418,Container Truck,Piaggio,2017,11489,Active
+VEH01199,BR86UV9161,Mini Truck,Ashok Leyland,2025,1184,Active
+VEH00079,CH78AQ9716,Mini Truck,Bajaj,2025,856,Retired
+VEH00271,HR25CB2485,Mini Truck,Piaggio,2012,1328,Active
+VEH01398,OD71ZY7925,Container Truck,Ashok Leyland,2014,5149,Active
+VEH00240,MP27SJ4110,Two-Wheeler,Eicher,2017,27,Active
+VEH00351,AS50LP0232,Container Truck,Bajaj,2017,8866,Active
+VEH00016,CH35HF4258,Two-Wheeler,Eicher,2015,8,Retired
+VEH01193,AS41KN7859,Two-Wheeler,Ashok Leyland,2024,16,Active
+VEH00359,UK94OU8173,Trailer,Eicher,N/A,23947,Under Maintenance
+VEH00304,MH88HR1526,Two-Wheeler,Eicher,2015,18,Active
+VEH00416,KL71NA5429,Tempo,Ashok Leyland,2015,2480,Under Maintenance
+VEH00433,MH50OM8418,TEMPO,Mahindra,2020,1865,Under Maintenance
+VEH00278,AS63OP6184,Tempo,Eicher,2022,-1538,Active
+VEH00615,TG95DT7283,Three-Wheeler,Piaggio,2022,-54,Retired
+VEH01213,UK61XT7595,Container Truck,Force Motors,2018,7415,Active
+VEH00539,MH13IY4422,Pickup Van,Bajaj,2019,999,Active
+VEH01001,KA50IO4539,Two-Wheeler,Eicher,2014,20,Under Maintenance
+VEH00372,GJ04MM4356,Pickup Van,Mahindra,2025,593,Active
+VEH00629,MH08SB9570,Tempo,Ashok Leyland,2019,1109,  Active  
+VEH01264,JH78OR5934,Mini Truck,Ashok Leyland,2016,802,Active
+VEH00452,UP78NS5512,Trailer,Bajaj,2012,15787,Active
+VEH01401,UK58FF5085,Container Truck,Bajaj,2015,17258,Active
+VEH01074,rj44jz2773,Two-Wheeler,Piaggio,2017,14,Under Maintenance
+VEH01031,TG94AI1533,Tempo,Force Motors,2016,2296,Retired
+VEH00967,GJ07IP0338,Pickup Van,Mahindra,2014,719,Active
+VEH00486,TG66PA4470,Container Truck,Eicher,2021,11538,Retired
+VEH01464,CH28DS5949,Mini Truck,Tata,2012,1098,Active
+VEH00773,OD06OP0877,Trailer,Eicher,2017,24875,Active
+VEH00977,KL51UV8058,Pickup Van,Tata,2017,1082,  Active  
+VEH00975,CH62OP5945,Container Truck,Tata,2012,6438,ACTIVE
+VEH01011,TN13PH8830,Two-Wheeler,Ashok Leyland,2031,14,Under Maintenance
+VEH00044,OD09PP7704,Trailer,Mahindra,2023,23414,Active
+VEH00427,OD72BM0428,Tempo,Piaggio,unknown,2862,Active
+VEH00850,UK20WZ4765,Two-Wheeler,Force Motors,2016,20,Active
+VEH01373,AS84YX0624,Two-Wheeler,Eicher,2024,10,Retired
+VEH00507,MP13YX3124,Tempo,Piaggio,2025,1576,Active
+VEH00102,HR64BR1018,Pickup Van,Force Motors,2019,686.00,Active
+VEH01103,KL49OB7417,Two-Wheeler,Mahindra,2012,16,Retired
+VEH00108,GJ84EC4221,Mini Truck,Eicher,2019,1264,Active
+VEH01069,MH27YF7316,Pickup Van,Force Motors,2018,873,NA
+VEH01205,HR86NF8023,Two-Wheeler,Force Motors,2024,8,Active
+VEH00431,AP25OJ3639,Pickup Van,Eicher,2014,838,Active
+VEH00840,HR01BH1445,Trailer,Tata,2024,19835,Retired
+VEH01002,DL31YC2657,Pickup Van,Bajaj,2019,918,Active
+VEH01288,wb27lo4041,Pickup Van,Tata,2013,-1184,Active
+VEH01180,UK17QK2258,Mini Truck,Eicher,2017,1190,Active
+VEH00712,CH81YD8506,Mini Truck,Piaggio,2018,1280,Active
+VEH00129,TN12BI9929,Two-Wheeler,Ashok Leyland,,13,Active
+VEH01455,KA14KY7515,Three-Wheeler,Ashok Leyland,2021,253,Active
+VEH01448,HR34TJ0339,Pickup Van,Bajaj,2025,1194,Active
+VEH00694,TN81FY6978,Container Truck,Bajaj,2024,19463,Active
+VEH00530,TN93JE8449,Mini Truck,Force Motors,2015,899,Active
+VEH00665,tn22mm6865,tempo,Tata,2014,1200,Under Maintenance
+VEH01482,TN63OM9593,Pickup Van,Piaggio,2024,500,Active
+VEH00865,MP68TH4857,Mini Truck,Force Motors,2014,575,Active
+VEH01384,OD42XI0331,Three-Wheeler,Eicher,2017,110,Active
+VEH00033,DL19MZ9411,Pickup Van,Piaggio,2022,914,Active
+VEH00675,UP70AZ8904,Tempo,Tata,2020,2175,Retired
+VEH00472,DL16LK4648,Pickup Van,Mahindra,2024,1000,Under Maintenance
+VEH00382,UK86GO5215,Three-Wheeler,Ashok Leyland,2024,242,Active
+VEH01164,KL39TU4404,Two-Wheeler,Bajaj,2015,21,Retired
+VEH00452,UP78NS5512,Trailer,Bajaj,2012,15787,Active
+VEH01304,HR97WW6188,Two-Wheeler,Ashok Leyland,2014,16,Active
+VEH00232,KL54ZA9417,Three-Wheeler,Force Motors,2018,104,Active
+VEH00817,AS23TW5733,Pickup Van,Bajaj,2014,621,Under Maintenance
+VEH00527,GJ73JK0499,Trailer,Tata,2022,11411,Active
+VEH01465,TN61HM8922,Two-Wheeler,Piaggio,2019,15,Retired
+VEH00990,KA26QH3305,Tempo,Ashok Leyland,2013,2004,Retired
+VEH00164,TG87GD0841,Tempo,Bajaj,2013,1588,Active
+VEH01084,MP15OO0734,Container Truck,Piaggio,2012,13035,Under Maintenance
+VEH01179,TG35ZL2994,Mini Truck,Tata,2023,785,Active
+VEH01145,WB41FC0595,Tempo,Piaggio,2023,2022,Active
+VEH01220,MP46HD1748,Trailer,Eicher,2024,17484,Active
+VEH00262,BR20LU3766,Pickup Van,Bajaj,2015,507,Active
+VEH00590,UK51VB2665,Three-Wheeler,Bajaj,2013,253,Retired
+VEH00651,kl82mp5913,Container Truck,Tata,2017,11843,Retired
+VEH00859,UP99VH3278,Tempo,Mahindra,unknown,1520,Retired
+VEH01201,UP60VQ3322,Tempo,Eicher,2022,1035,Retired
+VEH00820,JH93UX4622,Pickup Van,Piaggio,2023,859,Active
+VEH00193,AS87AC7610,Mini Truck,Tata,2022,732,Under Maintenance
+VEH01186,DL19XR4782,Tempo,Piaggio,2019,2865,Active
+VEH00325,PB25EM3136,Three-Wheeler,Piaggio,2022,134,Under Maintenance
+VEH00482,MH09PW8470,Tempo,Eicher,2019,2205,Active
+VEH00064,KA56QO0248,Trailer,Bajaj,2024,11986,Under Maintenance
+VEH01102,HR46EC1195,Two-Wheeler,Piaggio,2020,27,Under Maintenance
+VEH00245,BR29QK4051,Three-Wheeler,Eicher,2022,244,Active
+VEH00974,MP99FC0534,Mini Truck,Mahindra,2016,956,Under Maintenance
+VEH00925,TG20WN2288,Tempo,Force Motors,2020,1116,Under Maintenance
+VEH00366,wb40zy1866,Three-Wheeler,Force Motors,1998,157,Active
+VEH00523,GJ27KQ6437,Mini Truck,Bajaj,2013,1064,Retired
+VEH00932,OD16RB8097,Tempo,Ashok Leyland,2014,-2381,Active
+VEH00483,HR99GU3090,Tempo,Mahindra,2020,1001,Under Maintenance
+VEH00926,TG79AR8204,3-Wheeler,Piaggio,2019,278,Under Maintenance
+VEH00199,AS31EK4819,Pickup Van,Force Motors,2024,889,Active
+VEH01221,AP76HA4593,Container Truck,Bajaj,2022,9240,Under Maintenance
+VEH01285,TG24PC9042,Three-Wheeler,Piaggio,2016,120,Active
+VEH00260,CH74OU3495,Container Truck,Bajaj,2022,16029,Under Maintenance
+VEH00567,HR23WQ1365,Mini Truck,Mahindra,2017,1227,Retired
+VEH00219,WB42ZB1069,2 Wheeler,Piaggio,2014,14,Active
+VEH00465,AP41VX0589,Container Truck,Bajaj,2015,17783,Active
+VEH00031,UP26NT9606,Mini Truck,Ashok Leyland,2013,"₹1,005.00",Active
+VEH00057,AP04ZL7278,Two-Wheeler,Mahindra,2014,25,Active
+VEH01224,TG33ZG5883,Pickup Van,Tata,2024,753,Under Maintenance
+VEH00894,GJ22JQ3189,Three-Wheeler,Tata,2022,261,Under Maintenance
+VEH00922,KL40CA7040,Two-Wheeler,Bajaj,-,30,Active
+VEH00515,DL07NW1449,Two-Wheeler,Bajaj,2013,24,Active
+VEH01371,BR80DA6650,Tempo,Piaggio,2017,2012,Active
+VEH00744,TN73QY4196,Trailer,Force Motors,2024,12922,Active
+VEH01047,MH12ZH9259,Trailer,Eicher,2013,14799,Under Maintenance
+VEH00863,DL64YV1689,Pickup Van,Mahindra,2020,742,Active
+VEH01162,PB15IU5505,Container Truck,Force Motors,2024,19460,Retired
+VEH01250,WB07CX8260,Two-Wheeler,Ashok Leyland,2013,25,Active
+VEH00414,HR61DP2041,Two-Wheeler,Eicher,2019,10,Active
+VEH01177,BR04DZ2630,Trailer,Tata,2021,25878,Active
+VEH00655,TN76LI7312,Mini Truck,Piaggio,2014,768,Under Maintenance
+VEH01054,KL21SG6860,Three-Wheeler,Mahindra,2015,163,Active
+VEH00853,MH39MD6995,3-Wheeler,Ashok Leyland,2018,282,Active
+VEH00100,WB40DH1067,Container Truck,Force Motors,2022,18394,Under Maintenance
+VEH01321,GJ59XL6689,Two-Wheeler,Tata,2012,13,Retired
+VEH00310,WB13WK1058,Tempo,Tata,2020,1491,Active
+VEH00276,MP56VF0900,Container Truck,Force Motors,2024,9130,Active
+VEH01126,RJ31SJ1870,Mini Truck,Tata,2023,538,Active
+VEH01390,mh30tw9125,Three-Wheeler,Tata,2012,136,Active
+VEH00616,UP79YD0441,Trailer,Bajaj,2022,11842,Active
+VEH00844,DL69TT3421,Tempo,Tata,2014,2700,Retired
+VEH00637,DL57YH3303,Mini Truck,Eicher,2013,-1236,Active
+VEH00589,MH39RX4377,Pickup Van,Piaggio,2022,633,Active
+VEH00381,UK23BN2030,Mini Truck,Tata,2018,1304,Active
+VEH00597,TG99BR7353,Container Truck,Force Motors,2012,15074,Under Maintenance
+VEH00983,UP82VN2545,Mini Truck,Tata,2021,985,Active
+VEH01178,MP10HV3926,Trailer,Eicher,2018,11818,Retired
+VEH00848,UK60CH9705,Trailer,Ashok Leyland,2023,16151,Under Maintenance
+VEH00237,HR78WI7027,Three-Wheeler,Eicher,2020,194,Retired
+VEH01056,AS13MS4871,Container Truck,Eicher,2024,6304,Under Maintenance
+VEH01079,OD93UG9689,Two-Wheeler,Mahindra,2022,5,Active
+VEH01461,JH82HQ3288,Tempo,Bajaj,2017,2267,Retired
+VEH00888,AP25ZZ9569,Two-Wheeler,Eicher,2024,27,Retired
+VEH00479,DL84KA1337,Container Truck,Tata,2025,7050,Under Maintenance
+VEH00209,br01tb1038,Mini Truck,Bajaj,2024,1102,Under Maintenance
+VEH00395,HR57RD7338,Container Truck,Bajaj,2017,10928,Active
+VEH00797,TG77NB2917,Pickup Van,Tata,1998,514,Retired
+VEH00362,AP45MT4319,Mini Truck,Ashok Leyland,2024,1040,Active
+VEH00059,WB51RK6944,container,Mahindra,2023,14603,Active
+VEH00311,OD83IW8782,Three-Wheeler,Eicher,2021,94,Active
+VEH00868,DL88QF3423,Two-Wheeler,Piaggio,2023,27,Active
+VEH00412,AS59WA0548,Two-Wheeler,Bajaj,2013,7,Under Maintenance
+VEH01393,TN47SI8781,Trailer,Tata,2017,-19009,Active
+VEH01204,TN75HE6138,Container Truck,Bajaj,2018,7912,Retired
+VEH00731,KL03QW0944,Three-Wheeler,Ashok Leyland,2012,57,Retired
+VEH01223,TN22MO3386,Trailer,Force Motors,2014,20606,Retired
+VEH00345,BR01AF4699,Mini Truck,Eicher,2017,612,Active
+VEH01299,GJ38NX3932,Three-Wheeler,Bajaj,2016,120,Under Maintenance
+VEH00869,DL30BW7058,NA,Bajaj,2020,569,Active
+VEH01167,TN72WJ3501,Three-Wheeler,Bajaj,2024,97,Retired
+VEH01171,KA40OZ3762,Container Truck,Eicher,2014,7763,Active
+VEH00716,DL78KY7134,Container Truck,Mahindra,2022,14352,Active
+VEH00234,PB21OH8308,Three-Wheeler,Tata,2022,296,Retired
+VEH00632,MP54SV5411,Mini Truck,Piaggio,2023,1147,Active
+VEH00197,OD57MJ4315,Mini Truck,Mahindra,2020,951,Active
+VEH01275,KL68WB6364,Three-Wheeler,Bajaj,2022,172,Under Maintenance
+VEH00082,AP09LE7628,Three-Wheeler,Piaggio,2018,134,Active
+VEH01420,DL11UV0392,Tempo,Bajaj,2019,2117,Under Maintenance
+VEH01088,CH02EE7420,Mini Truck,Force Motors,2021,951,Retired
+VEH01169,OD65YY2304,Tempo,Ashok Leyland,2015,2437,Retired
+VEH00112,BR84BL0984,Pickup Van,Eicher,2022,1158,Active
+VEH01330,TG89RB5891,Container Truck,Mahindra,2021,17180,Retired
+VEH00794,PB36OJ3925,Tempo,Eicher,2023,2324,Retired
+VEH00999,RJ78CO1208,Trailer,Ashok Leyland,2024,27000,Active
+VEH00870,TN14RN7246,Trailer,Eicher,2021,20169,Retired
+VEH01281,UK79WO8736,Two-Wheeler,Bajaj,2021,24,Active
+VEH01335,CH87UT8357,Trailer,Mahindra,null,14695,Active
+VEH00602,TN36TC5533,Pickup Van,Eicher,2024,884,Retired
+VEH00591,RJ46XH2346,Mini Truck,Force Motors,2016,763,Active
+VEH00719,AS70EJ7870,Two-Wheeler,Bajaj,1998,13,Active
+VEH00428,gj90sz8139,Mini Truck,Bajaj,2023,1285,Under Maintenance
+VEH01117,MH08GX7048,Mini Truck,Piaggio,2024,696,Active
+VEH00333,AP48RL7843,Two-Wheeler,Force Motors,2019,22,Active
+VEH00813,PB96BX8835,Three-Wheeler,Bajaj,2016,242,Active
+VEH00423,OD17WS3915,Pickup Van,Piaggio,2014,999,NULL
+VEH01038,OD38XG6999,Three-Wheeler,Ashok Leyland,2012,166,Active
+VEH01033,MP40WK8814,Tempo,Ashok Leyland,2024,1684,  Active  
+VEH01090,MP36EG6311,Tempo,Eicher,2015,1413,Active
+VEH00440,DL98QW6306,Trailer,Tata,2024,14844,Under Maintenance
+VEH00514,HR40ET5654,Pickup Van,Bajaj,2012,1173,Active
+VEH01418,UK24GZ7739,Trailer,Eicher,2014,28488,Retired
+VEH01107,JH74UA9432,Two-Wheeler,Piaggio,2013,8,Retired
+VEH00549,UK88KA2460,Container Truck,Bajaj,2019,16877,Active
+VEH01314,UP95VZ4614,Tempo,Mahindra,2018,1460,Under Maintenance
+VEH00994,KL25NO3450,Three-Wheeler,Bajaj,N/A,68,Retired
+VEH01497,KA69UM3782,Trailer,Eicher,2022,20697,Active
+VEH00255,MH56GB3163,Tempo,Eicher,2017,1782,Active
+VEH00323,HR56EX0827,Trailer,Tata,2017,24236,Active
+VEH01106,JH40SK0929,Tempo,Eicher,2031,2386,Active
+VEH00745,DL25DY4086,Three-Wheeler,Force Motors,2012,269,Retired
+VEH00938,UP77DT1301,Pickup Van,Mahindra,2018,861,Active
+VEH00680,BR04YE4413,Container Truck,Force Motors,2016,9546,Active
+VEH00856,CH91RR3113,Two-Wheeler,Ashok Leyland,2025,16,Active
+VEH01247,MP47CB2081,Container Truck,Piaggio,2022,12561,Active
+VEH00340,UP67JE9312,Mini Truck,Force Motors,2019,1083,Active
+VEH00087,GJ72KM7657,Container Truck,Ashok Leyland,2013,16781,Active
+VEH01437,WB60DX1883,Mini Truck,Force Motors,2024,1496,Retired
+VEH00266,CH30OZ1215,Container Truck,Eicher,2014,17138,Active
+VEH00288,PB63SL5467,Tempo,Bajaj,2016,1952,Active
+VEH01499,TN56RZ2601,Pickup Van,Tata,2025,986,Under Maintenance
+VEH01053,DL25XA9917,Container Truck,Tata,2015,5515,Active
+VEH01142,MH07YO1296,Trailer,Mahindra,2020,14344,Retired
+VEH01362,TG84CD2908,Trailer,Piaggio,2014,13285,NULL
+VEH00562,DL30IM4466,Pickup Van,Mahindra,2015,808,Retired
+VEH00746,UP97YK6551,Container Truck,Mahindra,2021,18473,Active
+VEH00222,HR73WT6902,Tempo,Piaggio,2024,1500,Under Maintenance
+VEH00114,MP39IB8798,Container Truck,Bajaj,2018,18165,Retired
+VEH01109,UP28WD9234,Pickup Van,Piaggio,2016,1149,Active
+VEH00592,HR29YZ6331,Trailer,Ashok Leyland,2018,27070,Retired
+VEH00175,AP24RN9555,Two-Wheeler,Piaggio,2021,12,Active
+VEH00606,HR98EH7957,Three-Wheeler,Eicher,2015,174,Active
+VEH00495,PB70EW6208,Two-Wheeler,Eicher,2025,9,Active
+VEH01189,AP38IU6121,Pickup Van,Ashok Leyland,2024,1133,Active
+VEH00019,TN03EE3522,Tempo,Mahindra,2020,2349,Under Maintenance
+VEH00998,CH86PQ2807,Mini Truck,Piaggio,2012,845,Active
+VEH00286,MH24AA0789,Container Truck,Tata,2025,7278,Under Maintenance
+VEH00882,KA94OP8575,Container Truck,Piaggio,2014,5475,Under Maintenance
+VEH01269,JH48AB8632,Two-Wheeler,Bajaj,2016,13,Retired
+VEH01210,UP89GO5188,Pickup Van,Eicher,2020,906,Active
+VEH00032,HR48WV6707,Container Truck,Bajaj,2021,7473,Under Maintenance
+VEH01113,TN35UH5952,Trailer,Bajaj,2024,16845,Active
+VEH00211,rj86vh8872,  Pickup Van  ,Ashok Leyland,2023,996,Retired
+VEH00985,JH60JU9573,Trailer,Tata,2013,11992,Retired
+VEH01043,PB62SZ6600,Mini Truck,Tata,2024,1126,Under Maintenance
+VEH00889,PB92YC2714,Container Truck,Mahindra,2015,14183,Retired
+VEH00429,OD27RN6501,Three-Wheeler,Force Motors,2019,197,Active
+VEH01211,RJ23ON8756,Trailer,Mahindra,2013,17886,Active
+VEH00775,UP56SR6263,Two-Wheeler,Mahindra,2012,6,Active
+VEH01064,JH56GW1971,Three-Wheeler,Ashok Leyland,2017,146,Under Maintenance
+VEH00189,AP12HG7249,Two-Wheeler,Piaggio,2019,20,Active
+VEH00383,TN34BR2111,Pickup Van,Mahindra,2018,521,Active
+VEH01328,AP40GF5168,Mini Truck,Piaggio,2015,939,Under Maintenance
+VEH00501,UP65ZT8528,Pickup Van,Force Motors,2020,854,Active
+VEH01032,AS64LN4855,Tempo,Bajaj,2023,1001,Under Maintenance
+VEH00809,JH53FY4933,Trailer,Mahindra,2018,15032,Active
+VEH00917,BR85TZ3058,Trailer,Piaggio,2021,14147,Under Maintenance
+VEH00084,WB84RD8965,Tempo,Mahindra,2017,1904,Active
+VEH00683,TG94TS3571,Three-Wheeler,Bajaj,2017,159,Under Maintenance
+VEH00049,RJ29LR3820,Container Truck,Bajaj,2019,18326,Under Maintenance
+VEH01138,AS14XG1094,Mini Truck,Eicher,2019,1212,Retired
+VEH00156,GJ56LO8450,Trailer,Ashok Leyland,2012,13327,Active
+VEH00908,BR32RF5846,Trailer,Force Motors,2016,17930,Active
+VEH01411,CH25QP7170,Trailer,Bajaj,2016,"₹20,813.00",Active
+VEH00430,BR02VM1609,Container Truck,Force Motors,2013,6954,Active
+VEH01066,PB98JD7642,Trailer,Bajaj,2025,-11786,NULL
+VEH00821,TG58LQ8494,Pickup Van,Eicher,2021,864,Retired
+VEH01243,CH28UC1357,TRAILER,Eicher,2016,18253,Retired
+VEH01496,TN76WK5848,Tempo,Ashok Leyland,2012,2706,ACTIVE
+VEH00535,PB88TZ2810,Container Truck,Piaggio,2018,13626,Active
+VEH00180,KA71PQ3788,Two-Wheeler,Tata,2015,10,Under Maintenance
+VEH00426,PB87JT4781,Container Truck,Tata,2020,19359,Under Maintenance
+VEH01261,OD12GF7453,Tempo,Bajaj,2025,2165,Retired
+VEH00755,HR33AA7089,Pickup Van,Ashok Leyland,2013,1071,Active
+VEH01027,TN50DX1400,Pickup Van,Tata,2013,914,Active
+VEH00830,HR66ZW2150,Container Truck,Piaggio,2017,5803,Under Maintenance
+VEH00364,MH89DF3322,Trailer,Tata,2018,14307,Active
+VEH01190,KA78GB5275,Trailer,Bajaj,2020,21120,Retired
+VEH01212,CH57ZW1446,Pickup Van,Bajaj,2022,1195,Under Maintenance
+VEH00347,BR79TI0659,Trailer,Eicher,2022,11318,Retired
+VEH01095,CH24KS1499,Pickup Van,Bajaj,2017,689,Active
+VEH00644,KA23PX6435,Container Truck,Ashok Leyland,2023,18713,Active
+VEH00669,AS92NL7660,Two-Wheeler,Bajaj,2019,29,Retired
+VEH01086,OD05NB2701,Container Truck,Piaggio,2025,8046,Active
+VEH00598,JH04WC7778,Mini Truck,Tata,2021,1405,Active
+VEH00577,MP76RD1467,Two-Wheeler,Bajaj,2017,28,Active
+VEH01323,CH94YQ8448,Container Truck,Ashok Leyland,2013,13228,Under Maintenance
+VEH00244,MH33AZ9653,Container Truck,Tata,2021,5217,Under Maintenance
+VEH00818,MH12RS1603,tempo,Eicher,2014,2332,Active
+VEH00627,TN39NJ5180,Tempo,Ashok Leyland,2023,"₹2,500.00",Active
+VEH00778,CH73BF0931,Two-Wheeler,Eicher,2018,27,Under Maintenance
+VEH00906,UK35EM6724,Container Truck,Tata,2023,13421,Active
+VEH00421,CH07AZ0493,Three-Wheeler,Mahindra,2024,217,Under Maintenance
+VEH01436,BR70UE4413,Two-Wheeler,Force Motors,2016,14,Under Maintenance
+VEH00555,TG20XJ4949,Container Truck,Mahindra,2016,17751,Active
+VEH00309,RJ35BR5521,Container Truck,Mahindra,2012,14779,Retired
+VEH01111,WB61OE9390,Two-Wheeler,Bajaj,2025,23,Active
+VEH00399,ap18cm9660,Three-Wheeler,Ashok Leyland,1998,57,Active
+VEH00371,HR34XO3546,Container Truck,Piaggio,2020,14470,Under Maintenance
+VEH00055,BR25KM0999,Container Truck,Eicher,2025,14277,Active
+VEH00800,PB83PV6704,Container Truck,Ashok Leyland,2018,6467,Active
+VEH00760,DL59HA5473,Mini Truck,Force Motors,2015,778,Active
+VEH00313,CH25ZO8562,Three-Wheeler,Bajaj,2025,64,Active
+VEH00937,JH59PN6381,Two-Wheeler,Piaggio,2013,28,Active
+VEH01209,BR62GZ5769,Container Truck,Piaggio,2017,12463,Active
+VEH00110,BR57HP0077,Mini Truck,Bajaj,2019,"1,167.00",Active
+VEH00814,DL20RT3829,Mini Truck,Ashok Leyland,2015,1261,Under Maintenance
+VEH01440,MH02IQ5095,Mini-Truck,Mahindra,2020,721,Retired
+VEH00101,mh93ww9946,Two-Wheeler,Ashok Leyland,2013,22,Active
+VEH01233,PB28NP3144,THREE WHEELER,Bajaj,2024,170,Active
+VEH00681,AP14GF8181,Container Truck,Ashok Leyland,2017,16188,Under Maintenance
+VEH01453,CH54IE1834,Container Truck,Bajaj,2016,11628,Retired
+VEH00267,JH63TS0396,Tempo,Tata,2019,2689,Active
+VEH01327,DL37SY8507,Trailer,Tata,2015,14452,Under Maintenance
+VEH00297,MH26FI6020,Trailer,Eicher,2017,20309,  Under Maintenance  
+VEH01352,CH53AN3615,Pickup Van,Ashok Leyland,2025,562,Under Maintenance
+VEH01238,MH41PK9076,Three-Wheeler,Bajaj,2023,197,Active
+VEH01341,OD30JR6817,Tempo,Force Motors,2020,2932,Active
+VEH00966,HR04LK3267,Tempo,Tata,2024,2807,Active
+VEH00378,KA64BT6876,Three-Wheeler,Tata,2017,268,Active
+VEH00287,MP97IK0225,Mini Truck,Mahindra,2013,1364,Retired
+VEH01454,KA97MD5174,Container Truck,Mahindra,2016,17739,Retired
+VEH00742,HR92EA9685,Trailer,Bajaj,2025,11610,Active
+VEH00127,WB08BG0818,Container Truck,Bajaj,2012,10295,Active
+VEH00328,UK74WW0583,Container Truck,Tata,2024,18280,Active
+VEH00293,MP47QS5536,Trailer,Piaggio,2014,24035,Active
+VEH01354,KL76AH1212,Tempo,Eicher,2018,1881,Active
+VEH01041,KA69CI1573,Tempo,Eicher,2024,2781,Under Maintenance
+VEH01408,MP87PH5641,Pickup Van,Mahindra,2017,982,Active
+VEH00356,PB04EE7911,Container Truck,Piaggio,2024,11100,Active
+VEH00171,br22pa7030,Pickup Van,Force Motors,2013,508,Active
+VEH00414,HR61DP2041,Two-Wheeler,Eicher,2019,10,Active
+VEH01019,CH58HX7425,Mini Truck,Bajaj,2023,857,Under Maintenance
+VEH01345,BR32TM1208,Three-Wheeler,Mahindra,2025,284,Active
+VEH00210,TG52BP1321,Three-Wheeler,Bajaj,2015,281,Under Maintenance
+VEH00611,TN87HK2249,Container Truck,Eicher,2021,7717,Active
+VEH00528,CH52SU9478,Trailer,Bajaj,2016,25356,Active
+VEH00141,WB21EW3335,null,Mahindra,2013,94,Active
+VEH01101,AP01QR6360,Container Truck,Tata,2020,14204,Active
+VEH01006,CH25WQ4767,Container Truck,Mahindra,2020,14811,Retired
+VEH00661,CH68RS1291,Container-Truck,Ashok Leyland,2017,16991,Retired
+VEH01202,TN03UQ8647,Tempo,Force Motors,2024,1109,Under Maintenance
+VEH00933,DL13CT6996,Two-Wheeler,Eicher,2017,18,Retired
+VEH01075,JH41DC1238,Container Truck,Piaggio,2012,18196,Active
+VEH00533,UP80RM4911,Two-Wheeler,Force Motors,2023,24,Active
+VEH00200,HR64LD1621,Mini Truck,Eicher,2022,1270,Retired
+VEH00905,UP32SO1837,Container Truck,Eicher,2017,7116,Active
+VEH01228,BR48BP4440,Three-Wheeler,Eicher,2017,196,Active
+VEH01427,UK23EM1111,Two-Wheeler,Mahindra,2015,11,Active
+VEH00529,AP37RO6275,Container Truck,Mahindra,2013,8516,Active
+VEH01252,AP42TU0827,Three-Wheeler,Mahindra,2015,239,Under Maintenance
+VEH00011,MH21KQ0427,Two-Wheeler,Force Motors,2024,5,Active
+VEH00148,JH71DZ9135,Two-Wheeler,Piaggio,2013,INR 14.00,Retired
+VEH00984,ap23xe6020,Trailer,Force Motors,2018,22085,active
+VEH00283,TN51QU4505,Trailer,Mahindra,1998,12313,Retired
+VEH00299,MH90IG0691,Container Truck,Force Motors,2018,-19848,Retired
+VEH00630,MH84DV7865,Three-Wheeler,Ashok Leyland,2014,249,Active
+VEH00292,OD16TA6424,Pickup Van,Ashok Leyland,2019,648,Active
+VEH01386,AP19KL9540,Tempo,Eicher,2017,"₹2,960.00",Active
+VEH01301,TN69PM6571,Mini Truck,Bajaj,2014,1242,Active
+VEH01350,PB28CZ8407,Pickup Van,Ashok Leyland,2018,1183,Active
+VEH00561,TN76BD6040,Three-Wheeler,Force Motors,2015,133,Active
+VEH00553,GJ62OI9900,Tempo,Force Motors,2020,2560,Active
+VEH00130,PB73MF4548,Three-Wheeler,Bajaj,n/a,195,Retired
+VEH00979,mh25zx3507,Two-Wheeler,Ashok Leyland,2020,26,Retired
+VEH00332,KL89ON6171,Three-Wheeler,Mahindra,2014,77,Under Maintenance
+VEH00324,PB67XY7649,Pickup Van,Tata,2017,683,Active
+VEH00692,DL75XC2326,Trailer,Piaggio,2015,10056,Active
+VEH01416,MP50IJ1214,Two-Wheeler,Piaggio,2017,21,Active
+VEH01151,WB74FR4284,Three-Wheeler,Ashok Leyland,2018,173,Retired
+VEH00136,OD47TL6867,Mini Truck,Bajaj,2024,607,Active
+VEH00679,OD98HQ9690,TRAILER,Mahindra,2015,28973,Active
+VEH01413,tn62zc5566,Trailer,Eicher,2021,26778,Active
+VEH00737,AP47DU8050,Trailer,Bajaj,2018,14792,Under Maintenance
+VEH00436,JH78OB4619,Pickup Van,Eicher,2017,779,Under Maintenance
+VEH00670,KA75NE0924,Mini Truck,Mahindra,2019,621,Active
+VEH00866,KL56ZN5008,Mini Truck,Ashok Leyland,2019,1254,Under Maintenance
+VEH00711,CH54LX6758,Three-Wheeler,Piaggio,2015,185,Active
+VEH00799,TN59OV1546,Container Truck,Mahindra,2014,"₹17,969.00",Under Maintenance
+VEH00159,GJ46IG8123,Trailer,Mahindra,2015,28661,Active
+VEH01028,PB42RB3815,Tempo,Force Motors,2018,1109,Active
+VEH01308,TG39IU7497,Two-Wheeler,Eicher,2020,13,Active
+VEH00584,UK43PD8411,Container Truck,Piaggio,2013,7597,Active
+VEH00353,TN84ND8609,Trailer,Piaggio,2023,10550,Under Maintenance
+VEH01081,KA12WX1456,Two-Wheeler,Ashok Leyland,2017,9,  Active  
+VEH01311,RJ53JZ4647,Three-Wheeler,Bajaj,2016,100,Active
+VEH00545,BR47ER8890,Mini Truck,Force Motors,2031,844,Active
+VEH00571,GJ61EO0833,Trailer,Mahindra,2015,19493,Under Maintenance
+VEH00600,CH04OR1913,Three-Wheeler,Piaggio,2018,130,Active
+VEH01340,TG61GS1456,Two-Wheeler,Eicher,2022,27,Active
+VEH00196,DL04AE0022,Mini Truck,Ashok Leyland,2020,-503,Active
+VEH01349,KL80LP3965,Mini Truck,Tata,2019,1158,Active
+VEH00721,HR30CZ9151,Two-Wheeler,Bajaj,2025,16,Active
+VEH00439,KA05UQ4989,Tempo,Tata,2015,2606,Active
+VEH00411,AP46OW3199,Trailer,Bajaj,2022,18274,Active
+VEH00097,KL13XP8091,Three-Wheeler,Mahindra,2020,92,Active
+VEH01407,AP47MX2426,tempo,Tata,2024,1456,Active
+VEH00157,HR97RZ7918,Tempo,Piaggio,2014,2492,Active
+VEH00420,GJ64TG1411,Tempo,Ashok Leyland,2013,1937,Retired
+VEH00650,KA22HS0511,Container Truck,Eicher,2012,10385,Retired
+VEH00478,OD49IW0734,Two-Wheeler,Force Motors,2023,15,Retired
+VEH00618,dl04lm1950,Three-Wheeler,Mahindra,2022,274,Active
+VEH00950,AS42CX1838,Mini Truck,Force Motors,2021,1398,Under Maintenance
+VEH00951,UP34SK8494,Container Truck,Tata,2023,"₹7,216.00",Under Maintenance
+VEH00448,JH06RU2231,Container Truck,Tata,2012,19127,Active
+VEH00179,BR81ZL1405,Three-Wheeler,Piaggio,2025,137,Active
+VEH00391,KL96MA2667,Unknown,Bajaj,2023,192,Under Maintenance
+VEH01305,RJ20NX2878,Trailer,Eicher,2014,25846,Active
+VEH00652,RJ17GG0087,Container Truck,Piaggio,2015,13594,Active
+VEH01256,br62ur7458,Tempo,Tata,2021,1039,Active
+VEH00614,JH08IG5280,Three-Wheeler,Eicher,2019,158,Active
+VEH00583,MP38IM4267,Mini Truck,Mahindra,2023,1325,Active
+VEH00701,KL22LR9254,Pickup Van,Eicher,2018,1038,Active
+VEH00880,TG09XZ9831,Three-Wheeler,Force Motors,2022,120,Active
+VEH00827,JH45KD9279,Pickup Van,Eicher,2024,1032,Active
+VEH00756,GJ20TG4095,Pickup Van,Piaggio,2020,573,Active
+VEH00715,TG46JC9287,Tempo,Mahindra,2022,2466,Active
+VEH00295,AS26GX5965,Three-Wheeler,Piaggio,2014,154,Retired
+VEH00552,AS37NX3218,Trailer,Tata,2022,17192,Retired
+VEH01374,AS28YE4713,Trailer,Bajaj,2018,14265,Retired
+VEH00089,MP48TO5678,Trailer,Mahindra,2014,23654,Under Maintenance
+VEH01143,JH95TM4502,Two-Wheeler,Force Motors,2013,6,Active
+VEH00945,GJ16ZI6470,Container Truck,Bajaj,2017,16747,Under Maintenance
+VEH00585,HR60LD6082,Trailer,Eicher,2022,19694,Active
+VEH00671,UK72KF8964,Trailer,Bajaj,2025,27902,Under Maintenance
+VEH01403,CH38TS6442,Tempo,Mahindra,2020,1370,Active
+VEH00708,PB51AL3462,Two-Wheeler,Tata,2023,13,Active
+VEH00959,WB05YS0815,Tempo,Ashok Leyland,2018,2119,Active
+VEH00291,GJ75QH5883,Two-Wheeler,Piaggio,2020,21,Under Maintenance
+VEH01434,BR40MV6230,Two-Wheeler,Mahindra,2021,26,Under Maintenance
+VEH00706,WB15VL6387,Container Truck,Mahindra,2022,19385,Active
+VEH00349,CH87UN3385,Three-Wheeler,Tata,2016,156,Active
+VEH00576,RJ59IN2430,Pickup Van,Tata,2018,1108,Retired
+VEH01428,UP46HX3069,Tempo,Force Motors,2023,1330,Retired
+VEH00702,CH95XB9358,Two-Wheeler,Bajaj,2020,23,Active
+VEH00842,HR93MA6525,Container Truck,Piaggio,2025,18318,Retired
+VEH00608,pb89uk1605,Pickup Van,Ashok Leyland,2015,1079,Active
+VEH00459,RJ25NU9014,Container Truck,Bajaj,2017,6929,Active
+VEH00376,PB71ZO3688,Tempo,Piaggio,2013,1236,Active
+VEH00334,OD31DN0315,Three-Wheeler,Tata,2020,222,Active
+VEH01117,MH08GX7048,Mini Truck,Piaggio,2024,696,Active
+VEH01339,OD92NN6689,Mini Truck,Bajaj,2023,1103,Active
+VEH00723,KA82TX7460,Tempo,Ashok Leyland,2024,1232,Active
+VEH01405,AS23BP6654,Trailer,Ashok Leyland,2015,26963,Under Maintenance
+VEH01263,AS99MI7763,Pickup Van,Piaggio,2015,1013,None
+VEH00329,UK15MU4594,Tempo,Mahindra,2022,1704,Active
+VEH00319,CH77DE3141,Tempo,Bajaj,2016,2581,Active
+VEH01166,CH81OD3496,Container Truck,Mahindra,2022,19041,Active
+VEH00968,OD16HD9205,Mini Truck,Eicher,2014,1464,Under Maintenance
+VEH00013,KA02RR5462,Trailer,Tata,2012,13788,Active
+VEH00172,RJ61LI7884,Trailer,Piaggio,2023,18247,RETIRED
+VEH00261,ch29tk0671,Trailer,Force Motors,2017,23846,Active
+VEH00862,MH91WN1966,Trailer,Force Motors,2013,19940,Under Maintenance
+VEH00875,KL37GI8297,Container Truck,Eicher,2025,5716,Active
+VEH00810,TN05JM9512,Three-Wheeler,Tata,2024,53,Retired
+VEH00139,KL93GP7225,Three-Wheeler,Mahindra,2016,226,Retired
+VEH00550,KA96UH4105,Three-Wheeler,Mahindra,2024,74,Active
+VEH00622,GJ15WE9132,Mini Truck,Tata,2019,603,Active
+VEH00860,CH47NY7481,Container Truck,Tata,2012,5421,Active
+VEH01119,AP18YY0484,Mini Truck,Eicher,2019,1361,Retired
+VEH00559,JH21JI4398,Container Truck,Eicher,2017,8960,Active
+VEH00140,CH69KK2364,Three-Wheeler,Eicher,2020,136,Retired
+VEH01325,MP75AR4011,Mini Truck,Eicher,2016,1362,Active
+VEH00887,MH86FF9324,Two-Wheeler,Eicher,2016,30,Under Maintenance
+VEH00225,KA45NW6395,Container Truck,Ashok Leyland,2014,10954,Active
+VEH01030,MH32VL2113,Three-Wheeler,Piaggio,2025,233,Active
+VEH00410,DL05GP3797,Mini Truck,Bajaj,2021,882,Under Maintenance
+VEH00326,KA34EJ8109,Three-Wheeler,Ashok Leyland,2022,254,Active
+VEH00300,DL96BH9757,Two-Wheeler,Tata,2024,25,Under Maintenance
+VEH00900,TG11PD9861,Tempo,Tata,2023,1922,Active
+VEH01229,MH40VI1722,Three-Wheeler,Mahindra,2023,141,Under Maintenance
+VEH00705,HR29BD7011,Container Truck,Force Motors,2025,6817,Under Maintenance
+VEH01406,KA13AM0706,Mini Truck,Ashok Leyland,2022,725,Active
+VEH01183,MH78OJ4331,three wheeler,Ashok Leyland,2025,112,Active
+VEH00918,HR88XC3738,Tempo,Piaggio,2017,2424,Active
+VEH00574,MH29CM8165,Container Truck,Bajaj,2015,14700,Under Maintenance
+VEH00504,RJ93AM0603,MINI TRUCK,Mahindra,2012,942,Active
+VEH01329,HR34ML8070,Two-Wheeler,Eicher,2019,21,Under Maintenance
+VEH00004,uk05ry6693,Mini Truck,Tata,2019,816,Active
+VEH01176,HR90SG1742,Pickup Van,Piaggio,2014,549,Under Maintenance
+VEH00468,TG64CB7719,tempo,Piaggio,2020,2353,Under Maintenance
+VEH00322,ka17hl3541,Tempo,Tata,2022,2974,Active
+VEH00006,UP63JJ7952,Pickup Van,Bajaj,2015,845,Retired
+VEH00989,WB55AP4068,Tempo,Bajaj,2019,1607,Under Maintenance
+VEH00548,AS25NB8340,Three-Wheeler,Bajaj,2013,212,Active
+VEH01230,MH03EB0991,Two-Wheeler,Force Motors,2013,15,Under Maintenance
+VEH00040,BR18CE2954,Trailer,Tata,2012,24091,Active
+VEH00543,AS41VF9627,Two-Wheeler,Bajaj,2012,6,Active
+VEH00243,uk32hv6883,Two-Wheeler,Piaggio,2015,26,Retired
+VEH00137,GJ58HG1756,Three-Wheeler,Tata,2014,127,Under Maintenance
+VEH01200,JH61EW0869,Pickup Van,Bajaj,2019,905,Retired
+VEH00612,WB54PY3103,Tempo,Force Motors,2022,2047,Active
+VEH00786,AP09UU4552,Tempo,Bajaj,2024,2334,Active
+VEH01475,PB38PP0341,Mini Truck,Mahindra,2016,852,Active
+VEH01080,RJ77LS2434,Container Truck,Piaggio,2013,16787,Under Maintenance
+VEH01381,PB48RI4645,Three-Wheeler,Mahindra,2022,118,Active
+VEH00582,TG77FV7297,Pickup Van,Ashok Leyland,2015,843,Active
+VEH01490,GJ95MR6192,Tempo,Tata,2017,1355,Under Maintenance
+VEH01085,AS04HC7540,Pickup Van,Force Motors,2013,1133,Under Maintenance
+VEH01404,UP50QM0359,Two-Wheeler,Mahindra,2012,7,Active
+VEH00377,KA22RJ7154,Container Truck,Mahindra,2017,13719,Under Maintenance
+VEH00315,PB87BI6315,Tempo,Eicher,2017,2371,Retired
+VEH00443,AP26YI8370,Mini Truck,Bajaj,2016,1457,Active
+VEH00320,GJ49KT9041,Container Truck,Force Motors,2021,17937,Active
+VEH00819,PB71NW9251,Three-Wheeler,Ashok Leyland,2018,290,Retired
+VEH00807,TG05UZ6915,Mini Truck,Ashok Leyland,2022,521,Retired
+VEH01259,AP79JZ9124,Two-Wheeler,Ashok Leyland,2012,7,Active
+VEH00425,UP89CL4782,Container Truck,Mahindra,2022,19559,Active
+VEH00554,MH12TL7244,Pickup Van,Mahindra,2025,1170,Under Maintenance
+VEH00595,PB30ZR7613,Mini Truck,Ashok Leyland,2019,-873,Under Maintenance
+VEH00909,TN58QB5123,Trailer,Force Motors,2012,24251,Under Maintenance
+VEH00662,JH37QW5542,Pickup Van,Bajaj,2017,844,Active
+VEH00783,JH88PZ6481,Pickup Van,Mahindra,2021,663,Under Maintenance
+VEH01231,MP05DF1387,Container Truck,Bajaj,2017,16922,Active
+VEH00635,TN46BQ5608,Trailer,Mahindra,2022,29535,Active
+VEH00228,UP59NQ7961,Container Truck,Eicher,2015,16552,Active
+VEH01387,TN45LO0196,Pickup Van,Bajaj,2021,629,Active
+VEH00953,AS77TM6454,Two-Wheeler,Ashok Leyland,2024,8,Retired
+VEH00995,JH63PN7361,Tempo,Tata,2015,1873,Under Maintenance
+VEH01198,MH35VN5098,Container Truck,Eicher,2015,5347,Retired
+VEH00067,AP28CK4275,Three-Wheeler,Eicher,2022,200,Under Maintenance
+VEH00394,HR21RQ8479,Tempo,Eicher,2018,2583,Under Maintenance
+VEH00580,UK58YV7619,Tempo,Eicher,2019,2085,Retired
+VEH01005,CH59QT5242,Three-Wheeler,Eicher,2014,184,Under Maintenance
+VEH00212,TN75YL9025,Tempo,Eicher,2019,2753,Active
+VEH01291,KA21FP1374,Three-Wheeler,Piaggio,2020,62,Active
+VEH01492,UK42KG4696,Tempo,Force Motors,2014,1724,Active
+VEH00537,HR25HN8959,Container Truck,Tata,2025,8379,Active
+VEH00728,OD05HO5969,Mini Truck,Force Motors,2025,1302,Active
+VEH00673,JH39OW0744,Pickup Van,Mahindra,2012,533,Active
+VEH00086,WB77MM1901,Tempo,Ashok Leyland,2021,2215,Retired
+VEH01365,TG27WW0656,Pickup Van,Force Motors,2013,532,Active
+VEH00273,CH85WO5101,Mini Truck,Eicher,2015,605,Active
+VEH00931,PB36EG5880,Trailer,Piaggio,2024,11001,Active
+VEH00713,MH82LZ6563,Two-Wheeler,Tata,2022,6,Active
+VEH01366,JH35YD4945,Container Truck,Eicher,2019,17097,Active
+VEH00631,WB30LC2513,Container Truck,Bajaj,2017,9579,Active
+VEH01042,AS07IB1207,Trailer,Mahindra,1998,28195,Active
+VEH01415,TG87ZH7212,Container Truck,Bajaj,2013,9569,Active
+VEH00260,CH74OU3495,Container Truck,Bajaj,2022,16029,Under Maintenance
+VEH00274,HR55LR7862,Tempo,Tata,2016,2102,Under Maintenance
+VEH01309,MH84EA9406,Mini Truck,Force Motors,2015,655,Under Maintenance
+VEH00363,DL74EQ4291,Two-Wheeler,Force Motors,2014,5,Retired
+VEH00623,OD93UO8673,Three-Wheeler,Ashok Leyland,2020,288,Retired
+VEH00003,UK60QL6499,Trailer,Piaggio,2015,28337,Active
+VEH00007,RJ69XD0411,Container Truck,Piaggio,2031,19271,Active
+VEH00312,AP04MX4596,Trailer,Ashok Leyland,2019,26743,Active
+VEH01235,KA85YE8825,Trailer,Tata,2018,25643,Retired
+VEH00666,BR80NH6263,Three-Wheeler,Piaggio,2016,78,  
+VEH01478,KL85NS1469,Tempo,Ashok Leyland,2024,2737,Active
+VEH01493,WB06IB8411,Three-Wheeler,Piaggio,2025,216,Retired
+VEH00216,AS18TG7246,Pickup Van,Bajaj,2020,1115,Retired
+VEH00695,MH29WF7440,Three-Wheeler,Bajaj,2013,283,Retired
+VEH00028,MH37ET1783,Three-Wheeler,Bajaj,2015,276,Active
+VEH01092,OD79OH1750,Container Truck,Tata,2015,9256,  Active  
+VEH01430,OD14XE1216,Tempo,Force Motors,2014,1805,Active
+VEH01234,KL02YK6912,Tempo,Eicher,2014,2517,Under Maintenance
+VEH00639,MH73JH0199,Tempo,Mahindra,2012,2133,Active
+VEH00766,CH95ST0963,Two-Wheeler,Piaggio,2019,12,Active
+VEH01467,AP14XF0256,Three-Wheeler,Bajaj,2022,219,Active
+VEH00625,AP47YS1206,Pickup Van,Ashok Leyland,2020,735,Active
+VEH01290,KL83HZ6728,Trailer,Tata,2016,24685,Under Maintenance
+VEH00257,AS21ST9154,Two-Wheeler,Tata,2024,7,Active
+VEH00026,TG92OJ2401,Two-Wheeler,Ashok Leyland,2013,26,Active
+VEH00337,KL92VI7756,Three-Wheeler,Piaggio,2020,122,Active
+VEH00573,TG20DH8994,Pickup Van,Tata,2016,876,Retired
+VEH00048,OD34JR2987,Tempo,Piaggio,2012,2749,Active
+VEH00107,CH96XQ0090,Two-Wheeler,Mahindra,2018,21,Active
+VEH00350,RJ43VI5068,Three-Wheeler,Bajaj,2020,83,Active
+VEH00056,HR42ZD6010,Three-Wheeler,Bajaj,2013,120,Retired
+VEH01246,MP32CE8295,Two-Wheeler,Tata,2025,5,Retired
+VEH00214,AP32EF0917,Tempo,Piaggio,2023,2739,Under Maintenance
+VEH00121,KL07VT1918,Tempo,Piaggio,2015,INR 2599.00,Retired
+VEH01134,uk15dz0789,Tempo,Eicher,2024,1730,Under Maintenance
+VEH00747,KL50TD8158,Tempo,Bajaj,2017,2987,Retired
+VEH00073,MP07CH5654,Pickup Van,Tata,2020,1049,Active
+VEH00793,PB44UW6541,Two-Wheeler,Eicher,2015,8,Under Maintenance
+VEH00845,BR01LP6799,Pickup Van,Ashok Leyland,2021,773,Under Maintenance
+VEH00046,HR34ZE6990,Trailer,Eicher,2023,20218,Retired
+VEH01279,MH17QQ4254,Pickup Van,Ashok Leyland,2014,850,Retired
+VEH00524,TN40OZ6318,Two-Wheeler,Mahindra,2024,29,Active
+VEH00883,MP96DW8416,Container Truck,Force Motors,2022,16573,Active
+VEH00944,TN79ZP6736,Mini Truck,Bajaj,2021,984.00,Active
+VEH01248,KL16EX0791,Mini Truck,Mahindra,2022,550,Active
+VEH00808,MP85HU9526,Trailer,Tata,2016,18101,Active
+VEH00534,KA29RQ5123,Tempo,Tata,2018,2872,Active
+VEH01318,RJ18UJ1786,Mini Truck,Ashok Leyland,2017,877,Active
+VEH00604,BR87UY3406,Pickup Van,Piaggio,2013,584,Active
+VEH00466,TN55BA1792,Mini Truck,Ashok Leyland,2017,1392,Active
+VEH00899,BR27VE5129,Container Truck,Force Motors,2013,6534,Active
+VEH01293,KA31VY0204,Three-Wheeler,Mahindra,2025,299,Retired
+VEH01108,BR63PR7710,Trailer,Tata,2012,18899,Under Maintenance
+VEH00963,MH51QB4223,Tempo,Force Motors,2018,1809,Active
+VEH00061,TG65BK7902,Trailer,Ashok Leyland,2014,22512,Active
+VEH00901,WB78BZ8886,Three-Wheeler,Eicher,2013,62,Active
+VEH00093,AP89HL3745,Container Truck,Eicher,2012,15930,Active
+VEH00667,UK98PX6345,Three-Wheeler,Eicher,2024,167,Under Maintenance
+VEH00788,KA18RX0061,Container Truck,Ashok Leyland,2025,7398,Active
+VEH00195,AP51YI8673,Container Truck,Mahindra,2023,8969,Active
+VEH00281,MP97OL0938,Mini Truck,Eicher,2020,1327,Active
+VEH00696,rj22ie4243,Container Truck,Bajaj,2015,7009,Active
+VEH00360,TN92WF1344,Two-Wheeler,Ashok Leyland,2020,11,Active
+VEH00520,PB68EW6494,Tempo,Mahindra,2017,1097,Under Maintenance
+VEH01050,UK14QN5204,Container Truck,Eicher,2021,17765,Active
+VEH00781,CH02SN9690,Container Truck,Mahindra,2018,14451,Retired
+VEH00183,PB93IK3335,Trailer,Force Motors,2013,24938,Retired
+VEH01037,AP38AN7135,Pickup Van,Eicher,2018,883,Active
+VEH00111,RJ79HW8818,Trailer,Piaggio,2022,27807,Retired
+VEH00043,CH15UT5423,Trailer,Tata,2019,24494,Active
+VEH01395,KL21JG3854,Two-Wheeler,Bajaj,2012,18,Active
+VEH00205,OD27MI2449,Container Truck,Force Motors,2019,11694,Under Maintenance
+VEH00835,TG87QR0963,Pickup Van,Ashok Leyland,2031,826,Active
+VEH00053,AP65KI5687,Trailer,Force Motors,2015,19678,Under Maintenance
+VEH00546,MP87LO4923,Three-Wheeler,Ashok Leyland,2016,192,Active
+VEH01008,TN59OK9758,Tempo,Bajaj,2014,1586,Active
+VEH00910,UP51UK2240,Three-Wheeler,Piaggio,2014,156,Active
+VEH01378,MH97QV4684,Container Truck,Ashok Leyland,2015,16015,Active
+VEH00765,PB60KR6252,Mini Truck,Ashok Leyland,2017,1283,Retired
+VEH00184,CH18SX8639,Pickup Van,Eicher,2022,635,Retired
+VEH00138,UP74IJ8897,  Mini Truck  ,Piaggio,2023,536,Active
+VEH00987,AS56HL1098,Container Truck,Piaggio,2012,14414,  Active  
+VEH00081,GJ80GL9815,Tempo,Tata,2025,1998,Retired
+VEH01226,PB95RI3108,PICKUP VAN,Mahindra,2025,637,Active
+VEH00106,JH77GJ7257,Trailer,Piaggio,2015,"10,510.00",Under Maintenance
+VEH00542,TN07CE9213,Pickup-Van,Bajaj,2019,1179,Active
+VEH00980,RJ24ZQ0130,Mini Truck,Tata,2013,538,Retired
+VEH00481,KL49FO9172,Two-Wheeler,Eicher,2014,22,Active
+VEH00166,GJ05WG1879,Trailer,Eicher,2017,11535,Active
+VEH00249,KL61HI9155,Three-Wheeler,Eicher,2024,76,Under Maintenance
+VEH00308,MH99ZW4824,Two-Wheeler,Piaggio,NULL,11,Active
+VEH00447,RJ15QU3672,Three-Wheeler,Eicher,2012,245,Active
+VEH00758,TN16VF1096,Trailer,Mahindra,2018,28961,Active
+VEH00335,UK12NV5755,Two-Wheeler,Eicher,2015,11,Retired
+VEH00098,MH46QX7734,Two-Wheeler,Mahindra,2022,22,Active
+VEH00940,GJ30PJ8535,Three-Wheeler,Force Motors,2020,191,Active
+VEH00738,AS29EP0528,Pickup Van,Eicher,2022,520,Active
+VEH01118,TN61UB6184,Pickup Van,Bajaj,2020,626,Active
+VEH01097,MP20XJ3000,Container Truck,Force Motors,2023,-13559,Active
+VEH00103,MH15BZ4919,Pickup Van,Mahindra,2016,576,Under Maintenance
+VEH00435,TN54UD7028,Mini Truck,Ashok Leyland,2016,1303,Active
+VEH00075,AP67YT8837,Three-Wheeler,Ashok Leyland,2025,128,Active
+VEH01356,HR29VU8945,Three-Wheeler,Force Motors,2021,84,Active
+VEH01146,TN13PG9866,Mini Truck,Ashok Leyland,2022,1290,Under Maintenance
+VEH01375,BR54RJ1752,Container Truck,Piaggio,2025,6364,Active
+VEH00303,BR85UC4391,Three-Wheeler,Ashok Leyland,2019,68,Retired
+VEH01278,UP23TJ9626,Three-Wheeler,Mahindra,2013,57,Active
+VEH01237,TN63QD4082,Container Truck,Eicher,2012,18832,Active
+VEH00763,AP68AJ7837,Container Truck,Tata,2014,8684,Active
+VEH00734,AS66WC0292,Pickup Van,Mahindra,2024,841,Active
+VEH00389,TG26OQ1359,Trailer,Bajaj,2014,11446,Retired
+VEH00236,KA06MR9193,Trailer,Bajaj,2014,22535,Active
+VEH01260,TG30XN2446,Mini Truck,Bajaj,2022,553,Under Maintenance
+VEH00268,MH82NO5886,Pickup Van,Piaggio,2025,574,Active
+VEH00306,BR06QU0859,Pickup Van,Mahindra,2021,881,Active
+VEH00803,HR98YV1839,Three-Wheeler,Ashok Leyland,2024,179,Active
+VEH00118,WB56JA2681,Container Truck,Ashok Leyland,2019,19811,Active
+VEH01300,KA96LX5793,Three-Wheeler,Piaggio,2017,150,Active
+VEH00674,JH29WH7780,Two-Wheeler,Ashok Leyland,2019,₹15.00,Active
+VEH00250,DL79QF1829,Mini Truck,Ashok Leyland,2012,1124,Retired
+VEH01104,OD46NV7308,Trailer,Eicher,2023,22970,Retired
+VEH01089,CH70MZ0448,Container Truck,Mahindra,2015,14730,Active
+VEH00072,TG18HZ8668,Two-Wheeler,Ashok Leyland,2016,11,Active
+VEH00095,HR38ZU7506,Three-Wheeler,Piaggio,2017,291,Active
+VEH00862,MH91WN1966,Trailer,Force Motors,2013,19940,Under Maintenance
+VEH00034,CH37PK3614,pickup,Bajaj,2012,643,Retired
+VEH01112,UP94GU2694,Trailer,Eicher,1998,17895,Under Maintenance
+VEH00449,KL28QJ6223,Tempo,Ashok Leyland,2017,1900,Active
+VEH00446,UP45AJ3447,Pickup Van,Tata,2024,558,Retired
+VEH00772,TG48MU0356,Pickup Van,Eicher,2015,889,Under Maintenance
+VEH00717,CH02RN7865,Container Truck,Ashok Leyland,2021,11366,Under Maintenance
+VEH00902,JH03DH5715,Two-Wheeler,Ashok Leyland,2012,14,Active
+VEH01156,TG04WX9612,pickup van,Tata,2021,1034,Active
+VEH00916,UP48MF7093,Mini Truck,Eicher,2020,965,Retired
+VEH01044,KL69CN3768,Two-Wheeler,Eicher,2018,28,Active
+VEH00078,up40fj8764,Two-Wheeler,Mahindra,2022,25,Under Maintenance
+VEH00085,KL78BG6926,Trailer,Piaggio,2025,28362,Under Maintenance
+VEH01059,ap28cj1544,Trailer,Eicher,2020,15095,Active
+VEH00083,UK48MF7571,Mini Truck,Tata,2016,1249,Active
+VEH00458,KA73WE5358,Trailer,Force Motors,2018,21314,Active
+VEH00934,TG37PA4399,Two-Wheeler,Force Motors,2023,18,Active
+VEH00677,pb01ls7718,Tempo,Force Motors,2020,1977,Active
+VEH01000,MH55YS4420,Mini Truck,Force Motors,2020,1235,Active
+VEH01409,BR22NK9654,Pickup Van,Piaggio,2022,1116,Active
+VEH00437,CH51FG1642,Two-Wheeler,Ashok Leyland,2025,-27,Active
+VEH00771,AP48MS0650,Tempo,Eicher,2015,1173,Retired
+VEH00645,DL06ME2233,Tempo,Piaggio,2015,2717,Under Maintenance
+VEH00837,PB19QX3740,Trailer,Tata,2025,28552,Active
+VEH01174,OD96KK6275,Container Truck,Force Motors,2023,7905,Under Maintenance
+VEH01207,PB85XT1634,Tempo,Eicher,2020,1897,Active
+VEH00405,UP40TA8160,Container Truck,Force Motors,2013,14167,Retired
+VEH01319,MH29NT0062,Two-Wheeler,Mahindra,2021,16,Retired
+VEH00949,OD38ED5765,Mini Truck,Tata,2020,731,Active
+VEH01007,AS19IJ8886,Mini Truck,Bajaj,2023,1383,Active
+VEH00105,UP33IT0104,Tempo,Mahindra,2024,1475,Active
+VEH00610,TN25XN6760,Three-Wheeler,Bajaj,2013,196,Active
+VEH00846,UP08EW2553,Two-Wheeler,Force Motors,2014,15,Active
+VEH00689,KA72JX1147,Mini Truck,Eicher,2021,1170 kg,Retired
+VEH00964,MH58QW8129,Three-Wheeler,Ashok Leyland,2015,168,Retired
+VEH00947,KA97QF3466,Mini Truck,Piaggio,2012,1219,Active
+VEH00063,BR73KC5363,Tempo,Mahindra,2022,1814,Retired
+VEH00282,TG76DW3700,Mini Truck,Ashok Leyland,2019,1401,Under Maintenance
+VEH00779,HR93RA5355,Mini Truck,Mahindra,2018,1102,Active
+VEH01445,TN23SO3432,Three-Wheeler,Piaggio,2024,194,Active
+VEH00239,DL44PW3426,Pickup Van,Mahindra,2017,670,Retired
+VEH00224,MH48IN9554,Mini Truck,Eicher,2022,965,Active
+VEH00146,TN84RC6415,trailer,Tata,2025,25151,Active
+VEH01443,UP89LZ9519,Container Truck,Mahindra,2015,7445,Under Maintenance
+VEH00374,CH79QM3172,Container Truck,Eicher,2022,11286,Active
+VEH01382,WB82BL3661,Tempo,Bajaj,2022,2009,Active
+VEH00119,WB28NC9515,Mini Truck,Ashok Leyland,None,631,Retired
+VEH01139,JH19LB0122,Pickup Van,Tata,2020,540,Under Maintenance
+VEH00251,PB59MA9143,Three-Wheeler,Tata,2023,137,Active
+VEH01383,UK13FK6901,Trailer,Piaggio,2017,22064,Retired
+VEH01222,CH85AU7529,Three-Wheeler,Tata,2013,203,Retired
+VEH00907,TN19SR5525,Trailer,Ashok Leyland,2016,22165,Under Maintenance
+VEH00010,AS98ET5415,Two-Wheeler,Tata,2024,23,Active
+VEH00450,PB25EX8949,Trailer,Bajaj,2015,19612,Active
+VEH01456,HR77QU6039,Trailer,Eicher,2020,13841,Active
+VEH00709,TG99KD8529,Three-Wheeler,Eicher,2024,83,Active
+VEH00256,OD65WX9409,Trailer,Eicher,2031,"₹24,498.00",Active
+VEH00594,KL67ON2202,Three-Wheeler,Bajaj,2024,292,Active
+VEH00390,UP47LX2301,Three-Wheeler,Force Motors,2020,217,Under Maintenance
+VEH01343,TN88CF4352,Mini Truck,Eicher,2023,780,Under Maintenance
+VEH01214,AS10MP3554,Trailer,Mahindra,2013,20766,Active
+VEH00558,TN68DX6116,Tempo,Force Motors,2017,1795,Active
+VEH01303,CH78YW5014,Mini Truck,Force Motors,2022,1403,Under Maintenance
+VEH01157,DL25DD7032,Container Truck,Mahindra,2017,14597,Active
+VEH00461,MP56MV3669,Container Truck,Tata,2018,17501,Active
+VEH00724,MH04SO6490,Tempo,Tata,2020,2320,Under Maintenance
+VEH01369,BR82DS3471,Container Truck,Mahindra,2012,10375,Active
+VEH00145,GJ66PA1654,TEMPO,Mahindra,2022,1242,Retired
+VEH00502,PB58ZR4468,Pickup Van,Mahindra,2021,531,Active
+VEH01357,TN11VZ1416,Three-Wheeler,Piaggio,2013,67,Active
+VEH00740,UP83HG9394,Two-Wheeler,Bajaj,2017,23,Active
+VEH01400,TG36KX0820,Three-Wheeler,Piaggio,2013,-209,Active
+VEH00732,KL28ZZ6428,Tempo,Piaggio,2016,"1,943.00",Active
+VEH00540,MH67FP8255,Tempo,Force Motors,2019,1936,Active
+VEH00178,TG83ZM4449,Tempo,Force Motors,2019,1211,Active
+VEH01462,PB34ZJ1633,Tempo,Bajaj,NA,2403,Active
+VEH00698,DL48BQ0664,Mini Truck,Bajaj,2022,564,Active
+VEH01452,OD82JJ1021,Pickup Van,Tata,2014,999,Active
+VEH01058,UP66YD6275,Two-Wheeler,Ashok Leyland,2019,8,  Retired  
+VEH00890,OD48XH2033,Container Truck,Mahindra,2016,19590,Active
+VEH01320,MP04TP6462,Three-Wheeler,Bajaj,2014,172,Active
+VEH00742,HR92EA9685,Trailer,Bajaj,2025,11610,Active
+VEH00008,GJ64NG0956,Two-Wheeler,Eicher,2013,29,Active
+VEH01253,TG01US2044,Two-Wheeler,Ashok Leyland,2023,21,Active
+VEH00668,JH15AB4754,Two-Wheeler,Mahindra,2025,22,Under Maintenance
+VEH01173,BR49RV3657,Tempo,Mahindra,2023,2676,Active
+VEH00358,MP37RD9917,Pickup Van,Mahindra,2016,920,Active
+VEH00784,PB67ST0609,Container Truck,Piaggio,2019,7364,Active
+VEH00736,RJ56TI7106,Two-Wheeler,Tata,2023,30,Active
+VEH00330,KA63SO5395,Pickup Van,Force Motors,2015,506,Active
+VEH01064,JH56GW1971,Three-Wheeler,Ashok Leyland,2017,146,Under Maintenance
+VEH01161,RJ49IY8786,Pickup Van,Tata,2020,788,Active
+VEH01129,GJ32QE8293,Trailer,Piaggio,2015,14562,Active
+VEH00259,MH10FY4338,Two-Wheeler,Mahindra,2025,29,Retired
+VEH01188,OD61VI7361,Two-Wheeler,Ashok Leyland,2015,18,Active
+VEH00373,WB95OH5940,Trailer,Mahindra,2017,24524,Active
+VEH01115,TG49AF0647,Three-Wheeler,Piaggio,2012,143,Under Maintenance
+VEH00941,RJ74YI9403,Pickup Van,Force Motors,2016,778,Active
+VEH00143,PB75PP1927,Container Truck,Bajaj,2018,14558,Active
+VEH00526,RJ01DX5739,Pickup Van,Eicher,2016,1001,Active
+VEH01150,UK71WP8418,Tempo,Ashok Leyland,2017,2337,Active
+VEH01023,DL27DL3471,Three-Wheeler,Eicher,2014,271,Under Maintenance
+VEH01133,MH28AC4273,Three-Wheeler,Bajaj,2021,151,Active
+VEH01439,AS21TS8493,Mini Truck,Piaggio,2025,801,Retired
+VEH00441,AP16CH8677,Container Truck,Ashok Leyland,2020,9501,Retired
+VEH00532,AS30RK4145,Mini-Truck,Eicher,2012,1416,Under Maintenance
+VEH01215,UK13DK9887,Container Truck,Bajaj,2023,18908,Under Maintenance
+VEH00227,TG66CX3557,Mini Truck,Eicher,2023,816,Active
+VEH01273,KL24UM0511,Tempo,Bajaj,2013,1449,Active
+VEH00229,RJ93QE6422,Container Truck,Mahindra,2014,6729,Under Maintenance
+VEH01432,OD81JY7009,Mini Truck,Ashok Leyland,2014,676,Under Maintenance
+VEH01313,MP56VD9450,Pickup Van,Piaggio,2016,715,  Under Maintenance  
+VEH00213,HR83ZL4850,Two-Wheeler,Eicher,2012,-25,Active
+VEH00886,WB98HE1387,Container Truck,Tata,2017,8799,Active
+VEH00080,AS54EN9500,Container Truck,Ashok Leyland,2021,13072,Retired
+VEH00149,UP67FM7414,Trailer,Mahindra,2019,25142,Active
+VEH00815,GJ42KU7267,Tempo,Ashok Leyland,2025,1357,Under Maintenance
+VEH00919,OD12LT2668,Trailer,Mahindra,2020,28665,Retired
+VEH01192,ch73jn7694,Pickup Van,Piaggio,2014,714,Active
+VEH00672,RJ49TR2077,Three-Wheeler,Force Motors,2012,122,Retired
+VEH01168,RJ53UJ1576,THREE-WHEELER,Force Motors,2021,158,Active
+VEH00556,AP59WS4983,Two-Wheeler,Piaggio,2015,11,Active
+VEH00923,BR17TC0831,Trailer,Piaggio,2012,22386,Under Maintenance
+VEH00134,UP34XZ6055,Trailer,Mahindra,2016,19592,Active
+VEH01120,CH76KY4860,Mini Truck,Piaggio,2016,1184,Retired
+VEH00824,UK31QY9628,Mini Truck,Mahindra,2018,1011,Under Maintenance
+VEH00409,KL76IR3165,Three-Wheeler,Force Motors,2012,203,Retired
+VEH00369,AP15DN0043,Pickup Van,Eicher,2024,1126,Active
+VEH00508,UP30FY0928,Tempo,Piaggio,2023,2830,Active
+VEH01363,TG08IK5250,2 Wheeler,Bajaj,2031,21,Active
+VEH00505,jh76bu9911,Mini Truck,Eicher,2020,794,Active
+VEH01348,AP89FQ8631,Two-Wheeler,Piaggio,2022,-13,Retired
+VEH00348,DL22OQ8768,Tempo,Piaggio,2025,1334,Active
+VEH00387,PB78MC2746,Pickup Van,Force Motors,2017,563,Retired
+VEH00001,GJ63LR4911,Two-Wheeler,Mahindra,2024,18,Retired
+VEH00361,MH24IF2561,Two-Wheeler,Ashok Leyland,2020,29,Active
+VEH00895,KL14MY7401,Two-Wheeler,Eicher,2014,22,Active
+VEH00829,JH84JC1855,Mini Truck,Mahindra,2023,1318,Active
+VEH01431,UK59LE4243,Trailer,Force Motors,2020,12876,Active
+VEH00476,HR41GR5379,Trailer,Force Motors,2013,19872,Active
+VEH01296,AS90YL2611,TRAILER,Force Motors,2025,10900,Active
+VEH00058,KA06GS3264,Two-Wheeler,Mahindra,2022,28,Active
+VEH00638,BR51KL4399,Mini Truck,Eicher,2023,1366,Active
+VEH01322,DL43WL5421,Tempo,Bajaj,2018,1255,Active
+VEH01062,TN24BT0195,Three-Wheeler,Force Motors,2025,135,Active
+VEH00969,TG22OZ4305,Three-Wheeler,Tata,2015,197,Active
+VEH00173,WB13CS9612,Mini Truck,Bajaj,2012,1185,Active
+VEH00451,DL67LA2747,Trailer,Mahindra,2018,17429,Active
+VEH00126,uk93ou4050,Pickup Van,Tata,2017,882,Under Maintenance
+VEH01435,UP83JL9043,Trailer,Ashok Leyland,2013,17523,Active
+VEH00531,UK05PV4975,Trailer,Ashok Leyland,2014,29226,Under Maintenance
+VEH00858,TN39KL3366,Pickup Van,Tata,2023,-1175,Retired
+VEH00714,UK86ZK4365,Tempo,Eicher,2025,-2255,  Active  
+VEH00091,BR94KN9132,Mini Truck,Piaggio,2025,865,Retired
+VEH01466,BR77YB7785,Mini Truck,Mahindra,2012,1382,Retired
+VEH00182,MH76MM8870,Pickup Van,Mahindra,2020,613,Active
+VEH00876,UK18PX6716,Trailer,Ashok Leyland,2015,15162,Retired
+VEH01024,HR44ER7818,Three-Wheeler,Tata,2019,259,Retired
+VEH00787,HR08OZ3886,  Tempo  ,Mahindra,2014,2048,Active
+VEH00415,MP50WR4949,Mini Truck,Bajaj,Unknown,1047,Active
+VEH00252,MH18OF8540,Mini Truck,Tata,2020,1493,Active
+VEH00070,TG28ZR6779,Three-Wheeler,Tata,2017,150,Under Maintenance
+VEH00804,HR27FO6812,Three-Wheeler,Mahindra,2025,193,Retired
+VEH00132,KA88VV0997,Trailer,Force Motors,2020,11695,Retired
+VEH00301,JH24CH6632,Three-Wheeler,Tata,2020,61,Active
+VEH01034,OD64RZ9710,Three-Wheeler,Bajaj,2021,258,Under Maintenance
+VEH00327,AP11KP1641,Three-Wheeler,Force Motors,2025,264,Active
+VEH01480,BR81ME5339,Mini Truck,Ashok Leyland,2012,1480,Active
+VEH01125,mp95pf9875,Mini Truck,Mahindra,2018,606,Active
+VEH00500,MH86TQ2590,Container Truck,Mahindra,2013,"₹10,823.00",Active
+VEH00342,HR24EK7336,Three-Wheeler,Eicher,2019,271,Active
+VEH00833,GJ47TO6742,Tempo,Force Motors,2019,-2029,Active
+VEH00365,KA77BA9000,Mini Truck,Mahindra,2012,1072,Active
+VEH00496,MH53VV4507,Tempo,Eicher,2024,2196,Active
+VEH01410,WB15PB6705,Two-Wheeler,Tata,2019,-18,Active
+VEH00339,BR30CK4121,Mini Truck,Mahindra,2024,976,Active
+VEH00422,TG03QS0660,Container Truck,Eicher,2013,6291,  Retired  
+VEH00165,MP77NO8792,Three-Wheeler,Mahindra,2025,215,Active
+VEH00029,WB95EM9082,Tempo,Bajaj,2018,2151,Active
+VEH00517,DL84WU1223,Trailer,Eicher,2014,16243,Active
+VEH00194,MH97RV4154,Three-Wheeler,Ashok Leyland,2021,174,Active
+VEH00988,MH57JR8718,Mini Truck,Piaggio,2022,666,Under Maintenance
+VEH01377,OD07IP1361,Mini Truck,Ashok Leyland,2021,835,Retired
+VEH00946,JH39XK2108,Mini Truck,Tata,2025,746,Under Maintenance
+VEH01376,KA56IT4044,Mini Truck,Piaggio,2022,624,Retired
+VEH00170,PB23ER0292,Pickup Van,Piaggio,2025,985,Active
+VEH00168,KA88YP8137,Tempo,Bajaj,2025,1988,Active
+VEH00653,DL38XZ1888,Two-Wheeler,Eicher,2024,17,Active
+VEH00174,TN29RB7534,Tempo,Piaggio,2012,2909,Active
+VEH00519,CH26GW0403,Tempo,Bajaj,2016,2627,Under Maintenance
+VEH01227,CH30YM3067,Pickup Van,Ashok Leyland,2022,761,Retired
+VEH01194,UP87BZ2087,Trailer,Force Motors,2018,28162,Under Maintenance
+VEH00913,GJ72DO9325,Trailer,Ashok Leyland,2017,28604,Active
+VEH00492,DL43YN7174,Tempo,Ashok Leyland,2015,2174,Under Maintenance
+VEH00954,as73hu6440,Trailer,Force Motors,2023,10947,Active
+VEH00074,PB30PM1256,Pickup Van,Eicher,2024,1079,Active
+VEH01472,OD47AE4317,Two-Wheeler,Mahindra,2024,17,Active
+VEH00588,UP85XT9915,Container Truck,Mahindra,2013,15676,Active
+VEH00751,AS36UQ8244,Three-Wheeler,Bajaj,2021,53,Under Maintenance
+VEH00658,TG23AV9518,Mini Truck,Eicher,2012,1245,Active
+VEH00843,KL73LW9515,Mini Truck,Piaggio,2015,563,Active
+VEH00235,OD93MS2039,Trailer,Ashok Leyland,2016,14671,Active
+VEH00733,GJ46MS4963,Tempo,Force Motors,2016,1756,NA
+VEH00215,BR16ZK5123,Three-Wheeler,Eicher,2018,71,Active
+VEH00163,WB45AI1620,Two-Wheeler,Tata,2021,30,Active
+VEH00133,DL17TL6463,container,Force Motors,2014,6702,Retired
+VEH01160,RJ47LH3038,Mini Truck,Piaggio,2017,611,Active
+VEH00223,DL69RA9953,Trailer,Force Motors,2017,13753,Under Maintenance
+VEH01241,MH63TV6816,Three-Wheeler,Mahindra,2014,85,Active
+VEH00935,TG27DJ5178,Two-Wheeler,Force Motors,2012,-13,Active
+VEH00186,rj04et9936,Trailer,Ashok Leyland,2012,25349,Under Maintenance
+VEH00042,MP61ZJ1886,Container Truck,Mahindra,2019,6046,Active
+VEH00693,AS88LT7287,Trailer,Tata,2012,21030,Active
+VEH00109,GJ72CI8757,Two-Wheeler,Piaggio,2020,30,Retired
+VEH00039,DL22OD0394,Mini Truck,Ashok Leyland,2020,771,Under Maintenance
+VEH00569,RJ37TR2485,Tempo,Eicher,2019,2140,Retired
+VEH01010,TG36KJ2597,Tempo,Ashok Leyland,2012,1811,Active
+VEH01282,CH17HP0807,Two-Wheeler,Eicher,2015,22,Active
+VEH01457,CH90AT1216,  Tempo  ,Mahindra,2017,2927,Active
+VEH00484,RJ80YD4867,Two-Wheeler,Bajaj,NA,24,Retired
+VEH00469,KA73LK7215,Tempo,Ashok Leyland,2012,1099,Active
+VEH00891,WB71XU3872,Container Truck,Tata,2025,18244,Active
+VEH00948,UK03NQ2382,2 Wheeler,Ashok Leyland,2013,17,Active
+VEH00025,MH93YW1095,Three-Wheeler,Tata,2015,285,Active
+VEH01025,JH94TT2798,Two-Wheeler,Bajaj,2012,15,Under Maintenance
+VEH01206,CH83LS4957,Pickup Van,Force Motors,2015,1005,Active
+VEH00069,WB74PS2634,Trailer,Eicher,2017,23651,Retired
+VEH00885,UP13CJ8251,Trailer,Piaggio,2021,25238,Retired
+VEH01280,AP12KZ4921,PICKUP VAN,Eicher,2014,549,Active
+VEH00367,ch26rg3968,Two-Wheeler,Eicher,2014,30,Active
+VEH00506,UK83IG4034,Three-Wheeler,Force Motors,2025,96,Under Maintenance
+VEH00851,KL01YN6078,Pickup Van,Ashok Leyland,2017,1097,Retired
+VEH01331,UK09QT9333,Mini Truck,Ashok Leyland,2016,680,Active
+VEH00384,UP36LO9201,Mini Truck,Piaggio,2024,-1400,Under Maintenance
+VEH00735,TN59RT6331,Trailer,Eicher,2016,29520,Active
+VEH00718,HR69QT0294,Container Truck,Mahindra,2020,8105,Active
+VEH01351,TG87SF2209,Pickup Van,Piaggio,2031,650,Retired
+VEH00455,KA56RL0274,Tempo,Ashok Leyland,2023,1595,Under Maintenance
+VEH00265,OD37ZF9703,Mini Truck,Mahindra,2013,853,Active
+VEH00076,AS25OG6403,Two-Wheeler,Bajaj,2018,14,Under Maintenance
+VEH00915,MH96WR8575,Pickup Van,Bajaj,2021,1059,Active
+VEH00233,UP40EB0744,Container Truck,Piaggio,2031,15066,Retired
+VEH00445,KL15BJ3167,Three-Wheeler,Eicher,2022,64,Active
+VEH00396,MP42RC9492,Container Truck,Piaggio,2012,7016,Active
+VEH00177,TG98QN0927,Two-Wheeler,Eicher,2014,18,Retired
+VEH01326,MP23JT6008,Trailer,Tata,2015,13159,Retired
+VEH01417,RJ74NX6648,Three-Wheeler,Ashok Leyland,2023,149,Active
+VEH01048,DL20QP9676,Two-Wheeler,Bajaj,2013,24,Active
+VEH00596,HR76MQ5404,Container Truck,Ashok Leyland,2025,11557,Active
+VEH00062,KA60QG0145,Tempo,Piaggio,2016,2603,Active
+VEH00873,MP82DE8642,Two-Wheeler,Force Motors,2017,9,Active
+VEH01132,PB53UB7594,Container Truck,Tata,2021,18125,Active
+VEH01422,GJ09UW7817,Three-Wheeler,Bajaj,2023,189,Under Maintenance
+VEH00279,AP55GV2167,Container Truck,Force Motors,2012,16883,Active
+VEH00037,MP12YF6130,Pickup Van,Ashok Leyland,2017,997,Active
+VEH00663,KL47CH4620,Trailer,Piaggio,2018,23290,Active
+VEH01367,WB38WX4479,Container Truck,Bajaj,2023,11434,Under Maintenance
+VEH01099,PB72UM3780,Mini Truck,Piaggio,2017,792,Active
+VEH00978,PB97KM2905,Three-Wheeler,Force Motors,2025,114,Active
+VEH00739,OD39FN7912,Two-Wheeler,Ashok Leyland,2015,13,Active
+VEH00192,MH49VM2741,Pickup Van,Piaggio,2018,529,Under Maintenance
+VEH00920,RJ88UM2471,Three-Wheeler,Bajaj,2019,222,Under Maintenance
+VEH00457,AS02PZ4651,Trailer,Force Motors,2020,11639,Active
+VEH00676,MH42SB4041,Pickup Van,Ashok Leyland,2014,817,Retired
+VEH00761,UP83TR1586,Pickup Van,Bajaj,2019,841,Active
+VEH01446,kl92zz6880,Pickup Van,Tata,2023,900,Active
+VEH00729,GJ79UJ1130,Pickup Van,Bajaj,2017,1057,Retired
+VEH00413,WB37SC2021,Trailer,Piaggio,2022,22855,Under Maintenance
+VEH00826,KL44FD6902,Pickup Van,Eicher,1998,709,Retired
+VEH00617,HR73GX6025,Container Truck,Mahindra,2020,9694,Active
+VEH00115,MP61OZ1106,Three-Wheeler,Force Motors,2017,51,Under Maintenance
+VEH00418,CH18QK3174,Container Truck,Eicher,2020,5571,Active
+VEH01444,OD25FR2904,Trailer,Bajaj,2015,18479,Active
+VEH00970,OD53GA3991,Tempo,Ashok Leyland,2020,-1764,Active
+VEH00605,TN40LA4499,Three-Wheeler,Ashok Leyland,2013,230,Under Maintenance
+VEH01450,UP50AU1982,Pickup Van,Tata,2013,1083,Active
+VEH00090,JH21IR4166,Pickup Van,Ashok Leyland,2014,971,Active
+VEH00849,GJ67ZF2979,Trailer,Bajaj,2012,22484,Under Maintenance
+VEH01158,GJ96VP1975,Two-Wheeler,Mahindra,2016,17,Active
+VEH01449,AS98SM9303,Three-Wheeler,Piaggio,2012,249,Active
+VEH00754,PB83CY3074,Trailer,Piaggio,2013,27273,Retired
+VEH00499,HR33YC6722,Trailer,Tata,2024,20047,Active
+VEH00012,MH69DI4935,Container Truck,Bajaj,2013,15888,Active
+VEH00397,HR80QA3352,Two-Wheeler,Force Motors,2014,17,Under Maintenance
+VEH00285,UP75NB7570,Trailer,Tata,2024,29067,Active
+VEH01067,RJ27RB8231,Container Truck,Ashok Leyland,2015,6187,Active
+VEH00691,JH99BW0123,Tempo,Piaggio,2018,1368,Active
+VEH01244,CH84UD1350,Two-Wheeler,Tata,2023,17,Active
+VEH01419,MH58LP1643,Container Truck,Piaggio,2013,11542,Active
+VEH00690,JH44IN2554,Trailer,Force Motors,2013,19736,Active
+VEH00852,RJ45PQ3192,Container Truck,Tata,2022,15262,Active
+VEH00160,UK93MW8101,Tempo,Tata,2021,2886,Retired
+VEH00896,pb97ef0778,Container Truck,Mahindra,2021,5853,Active
+VEH01203,OD07FL9436,Pickup Van,Tata,2024,998,Active
+VEH00258,HR37WX3568,Tempo,Force Motors,2024,2050,Active
+VEH00336,TN97WO2954,Three-Wheeler,Tata,2016,109,Retired
+VEH01423,UP25FB7587,Trailer,Tata,2016,27286,Retired
+VEH01040,KL09BE1967,Three-Wheeler,Piaggio,2023,286,Active
+VEH00516,TN08RG8527,Tempo,Eicher,2025,2333,Under Maintenance
+VEH01016,UK49QD1174,Mini Truck,Piaggio,2017,1068,Active
+VEH00769,UP52VA0609,Trailer,Eicher,2019,26624,Active
+VEH01332,CH10KT8288,Container Truck,Piaggio,2015,12010,Active
+VEH00762,JH94CK8160,Pickup Van,Tata,2021,614,Active
+VEH01114,up78zt4641,Container Truck,Piaggio,2017,8284,Under Maintenance
+VEH00522,UP38RL4268,Three-Wheeler,Ashok Leyland,2025,241,Active
+VEH00023,KA15UN6431,unknown,Force Motors,2012,871,Retired
+VEH00357,UK73QC9466,Tempo,Eicher,2014,1680,Retired
+VEH01287,TN40NG0967,Mini Truck,Bajaj,2020,860,Active
+VEH00341,KA72PU9558,Pickup Van,Force Motors,2012,580,Active
+VEH00432,OD16IZ8182,Pickup Van,Force Motors,2016,999,Active
+VEH00474,BR55VA2274,Two-Wheeler,Ashok Leyland,2014,5,Active
+VEH00218,DL11UM9810,Three-Wheeler,Force Motors,2012,224,Retired
+VEH00912,OD04SD8849,Trailer,Force Motors,2012,12988,Under Maintenance
+VEH01218,TN30FK2398,Mini Truck,Piaggio,2022,556,Active
+VEH01012,CH94ID9280,Three-Wheeler,Ashok Leyland,2023,278,Active
+VEH01474,GJ40NH5809,Pickup Van,Bajaj,2014,900,Retired
+VEH00094,TN49HQ2365,Three-Wheeler,Eicher,2024,161,Active
+VEH01009,MH62BD8135,Trailer,Tata,2025,17636,Active
+VEH01071,AP57BT4745,Tempo,Ashok Leyland,2012,2751,Under Maintenance
+VEH01093,HR72AI8406,trailer,Bajaj,2019,-27725,Active
+VEH00697,RJ53EA6134,Three-Wheeler,Ashok Leyland,2013,250,Active
+VEH00997,MP06AC2313,Two-Wheeler,Tata,2021,28,Active
+VEH00154,UP32ZK9795,Pickup Van,Tata,2020,1074,Active
+VEH01100,KA08OA4553,Mini Truck,Force Motors,2025,884,Under Maintenance
+VEH01315,DL50NA1480,Three-Wheeler,Force Motors,2012,140,Retired
+VEH00713,MH82LZ6563,Two-Wheeler,Tata,2022,6,Active
+VEH00790,BR11GY0558,Container Truck,Piaggio,2015,16736,Under Maintenance
+VEH00581,OD03FN7494,Container Truck,Tata,2019,14987,Under Maintenance
+VEH00704,OD13CN3074,Three-Wheeler,Force Motors,2013,59,Active
+VEH01274,AP49ST6641,Trailer,Mahindra,2013,19794,Under Maintenance
+VEH00488,AP64RL9018,Mini Truck,Mahindra,2015,678,Retired
+VEH00560,JH45AA9404,Container Truck,Ashok Leyland,2021,7979,Active
+VEH00802,CH95QU5773,  Container Truck  ,Tata,2015,14561,Active
+VEH00513,DL07LW8435,Two-Wheeler,Force Motors,2012,24,Retired
+VEH00634,GJ89HK0975,Pickup Van,Tata,2019,1060,Active
+VEH01122,BR26RW4716,Three-Wheeler,Ashok Leyland,2031,186,Under Maintenance
+VEH01353,KA27TY8940,Tempo,Eicher,2015,2057,Active
+VEH00791,WB72ER0312,Mini Truck,Force Motors,2025,-1411,Active
+VEH00117,KL37FZ2520,Two-Wheeler,Bajaj,2016,26,Active
+VEH00741,HR25QB2542,Mini Truck,Bajaj,2020,575,Under Maintenance
+VEH01082,DL48JA7962,Container Truck,Tata,2021,14584,Active
+VEH00831,WB43FX2088,Two-Wheeler,Mahindra,2014,14,Active
+VEH00120,GJ93GV8130,Tempo,Piaggio,unknown,2044,Active
+VEH00657,AP60FN3992,Pickup Van,Ashok Leyland,2015,818,Active
+VEH00636,JH83FD6426,Trailer,Bajaj,2012,23531,Active
+VEH00370,UP18HB7989,Mini Truck,Piaggio,2015,860,Active
+VEH00269,WB05BX0591,Pickup Van,Eicher,2023,784,Under Maintenance
+VEH00656,WB08MP2993,Container Truck,Piaggio,2021,8014,Under Maintenance
+VEH00936,TG34TG8365,Tempo,Force Motors,N/A,2600,Retired
+VEH00823,UK29PR3542,Pickup Van,Piaggio,2015,892,Active
+VEH00867,MP39DK9577,Pickup Van,Tata,2019,506,Active
+VEH00047,KL48KX7528,Mini Truck,Piaggio,2023,1415,Active
+VEH01306,UP70AX7361,Container Truck,Eicher,2025,7887,Under Maintenance
+VEH00992,WB74TN6390,Three-Wheeler,Bajaj,2022,201,Under Maintenance
+VEH00877,GJ84BJ9823,Pickup Van,Eicher,2015,687,Active
+VEH00774,GJ52GC0463,Two-Wheeler,Tata,2018,25,Active
+VEH00071,UP45ZT7682,Tempo,Bajaj,2019,2984,Retired
+VEH00005,JH57PN9591,Mini Truck,Tata,2018,1340,Active
+VEH01004,MH29YJ0278,Three-Wheeler,Piaggio,2017,60,Active
+VEH01317,BR60UZ4298,Mini Truck,Piaggio,2017,1123,Active
+VEH00264,RJ46PV6729,Pickup Van,Bajaj,2013,852,Active
+VEH01197,AP42JT0583,Tempo,Tata,2012,2027,Active
+VEH01385,BR64ON2232,Pickup Van,Eicher,2023,756,Active
+VEH00444,TG10GT0995,Three-Wheeler,Mahindra,2019,162,Active
+VEH01003,TG25MI7975,Container Truck,Force Motors,1998,5448,Active
+VEH01078,OD52QG2715,Pickup Van,Force Motors,2025,801,Active
+VEH00838,AP53GX8052,Three-Wheeler,Force Motors,2023,289,Active
+VEH01355,RJ59OP4606,Three-Wheeler,Eicher,2020,157,Active
+VEH00305,KA64WU7332,Container Truck,Eicher,2019,17342,Under Maintenance
+VEH01245,KA80QV7938,Trailer,Force Motors,2025,18511,Active
+VEH00314,OD64AC0458,Pickup Van,Ashok Leyland,2021,700,Active
+VEH00150,hr80tu9481,Two-Wheeler,Bajaj,2016,16,Retired
+VEH01149,KL09WJ0935,Two-Wheeler,Eicher,2021,14,Active
+VEH00575,KL89RH8533,Two-Wheeler,Tata,2014,23,Active
+VEH00051,KL36BU7905,Container Truck,Tata,2023,"12,886.00",Active
+VEH01270,CH27ZC9178,Tempo,Mahindra,2022,1316,Active
+VEH00727,AP80EO9182,  Trailer  ,Ashok Leyland,2024,19851,Active
+VEH00834,AS08II8847,Tempo,Eicher,2022,1975,Under Maintenance
+VEH01116,MP38QA9897,Pickup Van,Ashok Leyland,2014,1097,Under Maintenance
+VEH00471,MH14BT8146,Pickup Van,Eicher,1998,1181,Active
+VEH00972,WB18CU8577,Two-Wheeler,Piaggio,2023,30,Active
+VEH00654,MH08GE8953,Trailer,Mahindra,2022,13478,Active
+VEH00400,KA42VR2857,Container Truck,Piaggio,2023,6241,Active
+VEH00512,AS55GY9193,Trailer,Eicher,2018,14894,Under Maintenance
+VEH00321,AS64MW3180,Three-Wheeler,Ashok Leyland,2016,85,Under Maintenance
+VEH00020,WB97JF1674,Two-Wheeler,Tata,2024,30,Under Maintenance
+VEH00685,JH72YX0623,Container Truck,Mahindra,2018,9595,Retired
+VEH00036,TN04HO8042,Pickup Van,Bajaj,2013,-621,Retired
+VEH00903,WB41OI8116,Two-Wheeler,Eicher,2020,21,Under Maintenance
+VEH00828,PB72ZW3229,Tempo,Force Motors,2012,1400,Active
+VEH01360,KA54EP7190,Pickup Van,Eicher,2013,878,Active
+VEH00408,UP45AH7062,Trailer,Tata,2013,19081,Retired
+VEH00921,CH34VZ0013,Mini Truck,Mahindra,2015,1068,Under Maintenance
+VEH00538,UK30NU1683,container,Force Motors,2022,5934,Active
+VEH00759,TN42AN7798,Tempo,Tata,2022,2665,Active
+VEH01063,TG79ZA9593,Container Truck,Bajaj,2013,7603,Retired
+VEH00246,MH89FR4960,Three-Wheeler,Bajaj,2017,271,Under Maintenance
+VEH01128,MP48TF5583,Tempo,Tata,2014,2666,Under Maintenance
+VEH00785,PB50DX0611,Container Truck,Eicher,2022,10366,Active
+VEH00490,MH11YR0400,Tempo,Force Motors,2018,1553,Active
+VEH00155,UK68JN1118,Three-Wheeler,Ashok Leyland,2013,293,Retired
+VEH00962,BR39ER1155,Trailer,Force Motors,2018,18871,Under Maintenance
+VEH00854,TN66LE5883,Trailer,Eicher,2023,26447,Active
+VEH00626,TN76KK5874,Pickup Van,Ashok Leyland,2019,909,Active
+VEH00686,tn45xg5142,Trailer,Piaggio,2016,22898,Under Maintenance
+VEH00570,RJ28VM5093,Three-Wheeler,Bajaj,2018,189,Retired
+VEH01442,MH86JN2712,  Mini Truck  ,Force Motors,2012,1177,Under Maintenance
+VEH00018,PB59AH9122,Trailer,Ashok Leyland,2025,24497,Active
+VEH00128,DL82TZ1999,Mini Truck,Eicher,2017,847,Active
+VEH01489,UP52LV4913,Container Truck,Mahindra,2021,5384,Active
+VEH00928,TG82OZ9752,Tempo,Mahindra,2013,1229,Active
+VEH00981,OD05UB9006,Container Truck,Force Motors,2023,18591,Under Maintenance
+VEH01485,JH69QB6631,tempo,Piaggio,2021,1585,Retired
+VEH00191,UP28PX2304,Mini Truck,Bajaj,2024,769,Active
+VEH01140,CH90VK6171,Mini Truck,Force Motors,2020,551,Active
+VEH00993,RJ63AI9677,Container Truck,Piaggio,2023,"13,495.00",Under Maintenance
+VEH01479,MH38NB9357,Tempo,Piaggio,2012,1396,Active
+VEH01266,BR09QE6433,Two-Wheeler,Eicher,2023,21,Active
+VEH00607,GJ54MJ2235,Trailer,Force Motors,2016,27942,Active
+VEH00181,UP97FW1436,Pickup Van,Tata,2014,625,Active
+VEH00302,KL79NE8464,Three-Wheeler,Force Motors,2019,123,Active
+VEH00497,HR16QZ6246,Two-Wheeler,Piaggio,2023,27,Retired
+VEH01346,TG26TI0080,Three-Wheeler,Eicher,2019,275,Retired
+VEH01271,WB26QS0596,Tempo,Piaggio,2025,1077,Active
+VEH01254,BR72CQ0535,Pickup Van,Tata,2019,940,Retired
+VEH00518,HR32JT6153,Container Truck,Tata,2016,14385,Under Maintenance
+VEH01070,HR27HD9426,Three-Wheeler,Ashok Leyland,2022,136,Active
+VEH00477,WB71TO2665,Container Truck,Bajaj,2019,17656,Retired
+VEH00158,MH58HE5281,Trailer,Force Motors,2012,21917,Retired
+VEH01196,KL77TX0494,Trailer,Piaggio,2014,14957,Active
+VEH00017,MH71UP5348,Three-Wheeler,Mahindra,2017,-61,Active
+VEH01073,UK15WC6590,Two-Wheeler,Piaggio,2020,24,Active
+VEH00547,KA89MD8917,Two-Wheeler,Mahindra,2017,23,Retired
+VEH00659,HR89LH3728,Container Truck,Ashok Leyland,2021,14345,Active
+VEH01240,WB47BE4374,Mini Truck,Mahindra,2031,707,Active
+VEH01020,CH61ZL2661,Three-Wheeler,Mahindra,2024,152,Active
+VEH01272,UK63GG6917,Trailer,Tata,2023,25839,Active
+VEH00960,WB92EH9485,Three-Wheeler,Eicher,2012,284,Retired
+VEH01425,BR42NJ5642,Container Truck,Ashok Leyland,2012,16410,Under Maintenance
+VEH00284,HR97YU0135,Two-Wheeler,Piaggio,2024,20,Retired
+VEH00798,JH75VW4291,  Two-Wheeler  ,Tata,2024,7,Under Maintenance
+VEH00226,MP18JO5669,Pickup Van,Tata,2025,850,Active
+VEH00027,WB47OI9686,Mini Truck,Force Motors,2018,899,Retired
+VEH00438,UP18RK4650,Tempo,Ashok Leyland,2022,2883,Under Maintenance
+VEH01473,AP49GO5465,Mini Truck,Piaggio,2013,1412,Active
+VEH00230,MH96KH0568,Two-Wheeler,Piaggio,2021,9,Active
+VEH00038,OD23UX8610,Mini Truck,Bajaj,2019,884.00,Under Maintenance
+VEH00750,TN51LO7773,Pickup Van,Tata,2025,919,Active
+VEH01046,AP74WT0310,Container Truck,Force Motors,2018,10006,Active
+VEH00470,BR18HQ3474,Tempo,Piaggio,2016,2287,Active
+VEH01294,WB23PX5753,Container Truck,Piaggio,2014,8801,Active
+VEH01488,MP85YN6558,Pickup Van,Eicher,2014,1152,Under Maintenance
+VEH00688,BR42KM2487,Two-Wheeler,Bajaj,2017,7,Under Maintenance
+VEH01394,AS21FU6557,Tempo,Force Motors,2023,2227,Active
+VEH00640,GJ72PC9211,Two-Wheeler,Mahindra,2013,30,Active
+VEH01310,OD81PV3154,Container Truck,Mahindra,2015,11023,Retired
+VEH01219,JH22BP8838,Trailer,Bajaj,2016,13105,Under Maintenance
+VEH01159,TG26NL5626,Three-Wheeler,Mahindra,2018,203,Retired
+VEH01458,UP27KR1952,Pickup Van,Tata,2012,800,Active
+VEH01379,TG45TA7643,Three-Wheeler,Eicher,2014,209,Under Maintenance
+VEH00801,MP75PJ6194,Two-Wheeler,Tata,2015,12,Active
+VEH00161,UP89CZ4294,Three-Wheeler,Tata,2023,-219,Under Maintenance
+VEH00957,UK13EP7224,Trailer,Bajaj,1998,13823,Under Maintenance
+VEH01187,UK22KV4730,Trailer,Mahindra,2022,12149,Under Maintenance
+VEH00822,RJ03VH3465,Pickup Van,Mahindra,2016,842,Under Maintenance
+VEH01286,WB31HP4024,Three-Wheeler,Ashok Leyland,2014,291,Active
+VEH00878,KL22ZD3173,Tempo,Eicher,2023,2953,Active
+VEH00914,GJ20MJ1653,Container Truck,Eicher,2015,19501,Active
+VEH00153,CH89LT9337,Trailer,Bajaj,2020,14121,Under Maintenance
+VEH01389,TN90CL1969,Pickup Van,Force Motors,2022,508,Active
+VEH00510,AS98WZ9131,Container Truck,Piaggio,2019,13520,Active
+VEH01136,WB82FC8282,Mini Truck,Ashok Leyland,2019,1480,retired
+VEH01251,MH12DN1499,Three-Wheeler,Piaggio,2012,254,Active
+VEH01273,KL24UM0511,Tempo,Bajaj,2013,1449,Active
+VEH00104,MP05DN5599,  Tempo  ,Force Motors,2022,-2783,Active
+VEH00587,KA95IA6835,Pickup Van,Eicher,2013,596,Active
+VEH01344,GJ60QQ6401,Tempo,Force Motors,2022,1905,Under Maintenance
+VEH01144,TG66MN4373,Mini Truck,Piaggio,2016,971,Under Maintenance
+VEH00054,JH89IB3494,MINI TRUCK,Bajaj,2019,1167,Under Maintenance
+VEH00152,MP34EG2869,Pickup Van,Force Motors,2015,793,Retired
+VEH00404,DL05YQ1920,Two-Wheeler,Bajaj,2017,19,Active
+VEH01470,OD59NC2667,Two-Wheeler,Eicher,2018,16,Active
+VEH00208,DL91XS1210,Three-Wheeler,Ashok Leyland,2017,127,Under Maintenance
+VEH01433,MH70JB0123,Three-Wheeler,Eicher,2025,251,Active
+VEH01123,KL95IG0068,Container Truck,Tata,2023,7861,Under Maintenance
+VEH01334,AP22DJ2303,Two-Wheeler,Piaggio,2014,16,Under Maintenance
+VEH00009,MP28CI9341,Three-Wheeler,Tata,2022,250,Active
+VEH01015,HR38KR4627,Pickup Van,Eicher,2016,844,Retired
+VEH01359,KA07EO8581,Tempo,Eicher,2019,1063,Active
+VEH01061,AS48TS0656,Trailer,Force Motors,2022,21345,Active
+VEH00453,PB63FQ4101,Mini Truck,Eicher,2013,-1477,Under Maintenance
+VEH00254,CH48VO2996,Tempo,Eicher,2017,1397,Active
+VEH00897,TG33QW3014,Trailer,Ashok Leyland,2023,29560,Retired
+VEH01324,AS90VD7265,Tempo,Bajaj,2013,2054,Active
+VEH00881,GJ10JH3929,Container Truck,Force Motors,2020,13817,Retired
+VEH01429,BR97QM7195,Three-Wheeler,Bajaj,2018,148,Retired
+VEH00624,GJ34HI6959,Trailer,Force Motors,2019,11972,Under Maintenance
+VEH00346,KA40NE3438,Tempo,Eicher,2013,1045,Under Maintenance
+VEH01302,JH67RZ1512,Three-Wheeler,Tata,2025,147,Retired
+VEH00263,gj53hv3100,Mini Truck,Mahindra,2020,1308,Active
+VEH00151,AS35JV6275,Pickup Van,Piaggio,2015,626,Retired
+VEH00473,MP26KL7956,Trailer,Eicher,2014,13116,Active
+VEH00641,UK65QR4347,Three-Wheeler,Ashok Leyland,2023,-115,Active
+VEH01500,TG21XK0172,Pickup Van,Ashok Leyland,2015,547,Active
+VEH01426,MP81KQ9719,Trailer,Piaggio,2024,27670,Retired
+VEH00551,AP37FP4407,Two-Wheeler,Ashok Leyland,2013,11,Active
+VEH00929,AS47KO6780,Pickup Van,Tata,2012,847,Active
+VEH00489,TG30YS8734,Three-Wheeler,Eicher,2019,281,Active
+VEH01372,UK35MR7787,Three-Wheeler,Force Motors,2018,156,Active
+VEH01172,MP91YT5212,Tempo,Force Motors,2018,1608,Retired
+VEH00147,TG79RZ6996,Pickup Van,Force Motors,2012,779,Active
+VEH00403,UK20PC0495,Two-Wheeler,Eicher,1998,-15,Active
+VEH00955,UP29SM4546,Tempo,Force Motors,2017,1181,Under Maintenance
+VEH01421,DL06KZ9200,Two-Wheeler,Eicher,2022,20,Retired
+VEH00660,GJ73ZJ6164,Trailer,Eicher,2014,-20157,Retired
+VEH00464,MP89YK2154,Three-Wheeler,Tata,2014,206,Active
+VEH00187,BR26PX2444,Mini Truck,Force Motors,2013,886,Under Maintenance
+VEH01148,HR85RE6296,Two-Wheeler,Tata,2018,5,Active
+VEH01225,UK23LM0591,Tempo,Ashok Leyland,2015,1403,Active
+VEH00609,GJ37SF3619,Mini Truck,Tata,2016,792,Retired
+VEH00144,HR11VB4987,Container Truck,Bajaj,2023,9086,Active
+VEH00752,DL74DL2717,Three-Wheeler,Eicher,2017,240,Retired
+VEH00982,DL42RG1140,Tempo,Ashok Leyland,2022,2463,Active
+VEH00198,JH09YJ3700,Tempo,Eicher,2015,1117,Under Maintenance
+VEH00884,MP44YQ9014,Tempo,Tata,2022,2705,Active
+VEH00280,KA57EK5515,Mini Truck,Eicher,2016,1498,Under Maintenance
+VEH00294,KL45ZO9763,Mini Truck,Piaggio,2018,803,Active
+VEH01380,KA75IX1794,Two-Wheeler,Eicher,2015,17,Active
+VEH00401,KL67LL2900,Three-Wheeler,Force Motors,2021,259,Active
+VEH00123,OD60GS3187,Container Truck,Bajaj,2016,12036,Retired
+VEH01208,KA98DL2257,Three-Wheeler,Mahindra,2031,252,Under Maintenance
+VEH00203,WB86PJ4940,Pickup Van,Mahindra,2014,658,Active
+VEH00836,BR30JA5853,Trailer,Piaggio,2022,19675,Active
+VEH00247,UK17GE3056,Container Truck,Eicher,2013,13561,Active
+VEH01495,AS20JJ4555,Trailer,Piaggio,2025,22151,Under Maintenance
+VEH01424,BR04XU4119,Trailer,Piaggio,unknown,24262,Active
+VEH01154,HR49BF3394,Two-Wheeler,Piaggio,2020,23,Active
+VEH00385,OD81DG5473,Two-Wheeler,Eicher,2012,23,Active
+VEH01487,KL92YK7722,Pickup Van,Bajaj,2013,746,Retired
+VEH00855,BR98EB6478,Mini Truck,Ashok Leyland,2021,995,Retired
+VEH00220,UK50VP1951,Container Truck,Tata,2020,9053,Active
+VEH00642,GJ18XB9633,Mini Truck,Piaggio,2013,1276,Retired
+VEH00002,GJ50MH0480,Container Truck,Tata,2013,12591,Retired
+VEH00113,WB02LF8033,Tempo,Eicher,2012,1929,Retired
+VEH00699,JH80RQ6733,Pickup Van,Eicher,2017,681,Retired
+VEH01447,MH53IK9522,Trailer,Bajaj,2016,28424,Retired
+VEH00952,MH11UZ6589,Mini Truck,Tata,2020,1123 kg,Active
+VEH01498,KL20MQ0635,Two-Wheeler,Bajaj,2025,20,Retired
+VEH01292,MP07PF1102,Tempo,Bajaj,2018,2361,-
+VEH01369,BR82DS3471,Container Truck,Mahindra,2012,10375,Active
+VEH00442,KL24TS4415,Container Truck,Bajaj,2025,7397,Retired
+VEH01137,BR48CO9587,Trailer,Force Motors,2020,12594,  Active  
+VEH01257,JH19PB4572,Trailer,Mahindra,2017,16099,Retired
+VEH00664,DL18DA0925,Trailer,Ashok Leyland,2021,19351,Retired
+VEH01388,JH69ZZ2740,Two-Wheeler,Tata,2022,25,Under Maintenance
+VEH01258,AP95RN5612,Container Truck,Ashok Leyland,2025,5834,Retired
+VEH01347,HR17BV2975,Three-Wheeler,Bajaj,2023,215,Active
+VEH00318,UP62HG4385,Mini Truck,Force Motors,2023,884,Under Maintenance
+VEH00649,WB46IB8057,Container Truck,Force Motors,2015,5020,Active
+VEH00710,WB49SO7420,Tempo,Tata,2013,-1583,Active
+VEH01283,WB96QX9836,Trailer,Bajaj,2017,18145,Active
+VEH00973,JH40HL4935,Pickup Van,Force Motors,2024,683,Active
+VEH00628,CH56SY7845,Two-Wheeler,Eicher,2020,15,Under Maintenance
+VEH00633,OD48RU3766,Trailer,Force Motors,2023,26274,Active
+VEH01307,TG05YY7968,  Trailer  ,Force Motors,2014,16822,Active
+VEH01249,BR74BN5915,Container Truck,Ashok Leyland,2025,10073,Under Maintenance
+VEH01477,UP29JG6414,Two-Wheeler,Piaggio,2013,25,Active
+VEH01255,UP32MY0201,Tempo,Tata,2021,1411,Active
+VEH01399,JH43CT4935,Two-Wheeler,Eicher,2020,17,Active
+VEH00796,UK62TE1613,Container Truck,Tata,2023,10942,Retired
+VEH00646,MP97SG3433,Mini Truck,Bajaj,2013,550,Retired
+VEH01013,KA83EI2130,Tempo,Force Motors,2025,2744,Active
+VEH00557,HR18RR6199,Trailer,Eicher,2019,17527,Active
+VEH00682,PB05JJ6238,Container Truck,Bajaj,2025,11679,Under Maintenance
+VEH00578,AP83NJ2415,Mini Truck,Bajaj,2023,1395,Retired
+VEH01110,UK80SN2842,Pickup Van,Tata,2020,1024,Active
+VEH01267,JH46DQ1042,Trailer,Ashok Leyland,2014,23933,Under Maintenance
+VEH01184,MP86RX3966,Three-Wheeler,Force Motors,2020,65,Under Maintenance
+VEH00525,KA07SX4312,Container Truck,Piaggio,2025,5855,Retired
+VEH01060,PB58JU5348,Two-Wheeler,Mahindra,2020,5,Retired
+VEH00541,GJ81NY2237,Mini Truck,Mahindra,2016,1500,Retired
+VEH01195,MP77YS1188,Mini Truck,Force Motors,2018,1221,Retired
+VEH00749,KL61WX5505,Tempo,Eicher,2017,2805,Under Maintenance
+VEH01402,CH57MF1653,Tempo,Ashok Leyland,2020,1207,Active
+VEH00485,KA78WW7425,Two-Wheeler,Bajaj,2022,23,Active
+VEH00096,AP13BR0498,Mini Truck,Bajaj,2022,-1223,Active
+VEH01021,DL01ZC3772,Trailer,Force Motors,2016,21815,Active
+VEH00564,BR49FK9596,Two-Wheeler,Piaggio,2023,18,Active
+VEH01265,OD98HT6221,PICKUP VAN,Eicher,2019,885,Active
+VEH00743,BR82ST4651,Pickup Van,Piaggio,2016,813,Active
+VEH00864,DL94BI4377,THREE WHEELER,Force Motors,2016,134,Under Maintenance
+VEH00892,WB40GZ4021,Mini Truck,Eicher,2017,881,Active
+VEH01039,WB35VQ4309,tempo,Bajaj,2021,1042,Retired
+VEH00207,TG62PZ1846,Pickup Van,Piaggio,2016,792,Active
+VEH00393,BR03XP5866,Three-Wheeler,Tata,2012,70,Active
+VEH00795,dl28hc3916,Two-Wheeler,Force Motors,2012,28,Active
+VEH00871,KA95PN4688,Tempo,Tata,2025,2984,Active
+VEH00398,AP44NH4104,Tempo,Eicher,2017,1476,Active
+VEH00767,ap58by7628,Three-Wheeler,Force Motors,2016,213,Active
+VEH01392,GJ80VW5842,Mini Truck,Piaggio,2015,1074,Under Maintenance
+VEH01242,TG54GO8105,Tempo,Ashok Leyland,2014,2343,Active
+VEH01029,MP92WW4734,Tempo,Ashok Leyland,2013,2265,Active
+VEH00643,TN93XL8422,Tempo,Tata,2016,1274,Active
+VEH00613,OD38TF2152,Three-Wheeler,Piaggio,2014,212,Active
+VEH00961,BR68MR2990,Pickup Van,Ashok Leyland,2020,1107,Retired
+VEH00726,AS83IA6926,Mini Truck,Mahindra,2025,1112,Active
+VEH00684,WB55MK0861,Container Truck,Force Motors,2014,8058,Active
+VEH00099,OD95RY3110,Tempo,Eicher,2013,2168,Under Maintenance
+VEH00805,JH41AP4345,Three-Wheeler,Force Motors,2023,101,Active
+VEH00407,HR37JV8033,Mini Truck,Eicher,2012,630,  
+VEH00503,TN11BG1600,Trailer,Ashok Leyland,2025,24681,Under Maintenance
+VEH01072,OD70IK1287,Two-Wheeler,Tata,2017,9,Active
+VEH01057,CH50KO1320,Three-Wheeler,Tata,2018,251,Active
+VEH00930,OD54MA7147,Container Truck,Force Motors,2021,12247,Active
+VEH00780,AP38AV1730,Mini Truck,Piaggio,2018,1338,Active
+VEH00201,MP18BQ2056,Pickup Van,Ashok Leyland,2024,-594,Under Maintenance
+VEH00135,DL77SQ3263,Trailer,Tata,2018,29771,Under Maintenance
+VEH01052,PB84UC5863,Tempo,Mahindra,2021,1223,Under Maintenance
+VEH00041,MH07KM5764,Mini Truck,Force Motors,2021,1397,Active
+VEH01018,JH59HX8993,Pickup Van,Force Motors,2015,1151,Under Maintenance
+VEH00231,TG51UI7778,Pickup Van,Mahindra,2016,675,Active
+VEH00379,MP81ZL6940,Three-Wheeler,Ashok Leyland,2012,142,Retired
+VEH00289,RJ28FX2616,Two-Wheeler,Mahindra,2012,INR 11.00,Under Maintenance
+VEH00419,KA78XV9951,Tempo,Bajaj,2021,2372,Under Maintenance
+VEH00392,HR39UJ9712,Pickup Van,Eicher,2016,647,Active
+VEH00593,UK12RL6115,Mini Truck,Force Motors,2023,1428,Active
+VEH01163,OD40NJ6984,Two-Wheeler,Piaggio,2020,18,Retired
+VEH01087,OD95ZQ1970,Mini Truck,Mahindra,2021,813,Retired
+VEH00648,UP87BR7241,Mini Truck,Ashok Leyland,2014,665,Active
+VEH01153,UK81TH0776,Mini Truck,Tata,2022,1178,Retired
+VEH01368,TN58HQ3595,Three-Wheeler,Piaggio,2013,282,Active
+VEH00521,TG88ZP5947,Mini Truck,Eicher,2023,546,Retired
+VEH00065,JH04UA4920,Container Truck,Ashok Leyland,2013,9099,Active
+VEH00015,PB75GZ4696,Container Truck,Bajaj,2019,18219,Active
+VEH01181,MH29JY4107,Tempo,Piaggio,2016,2469,Under Maintenance
+VEH01065,GJ90HP5559,Two-Wheeler,Piaggio,2014,29,Active
+VEH00493,MP91TQ7389,Container Truck,Eicher,2014,-10885,Active
+VEH00380,WB53RO9806,Mini Truck,Piaggio,2018,1453,Under Maintenance
+VEH00188,TG75QV6834,Pickup Van,Bajaj,2019,894,Active
+VEH00764,DL11WF3577,Container Truck,Force Motors,2022,16465,Active
+VEH00217,WB89YB1874,Two-Wheeler,Mahindra,2022,8,Active
+VEH00792,KA97CE9398,Tempo,Bajaj,2016,1851,Retired
+VEH01077,BR81YF2881,Container Truck,Force Motors,2025,9654,Active
+VEH00879,WB84FH6762,Mini Truck,Ashok Leyland,2017,1131,Active
+VEH00338,PB48SR4165,Pickup Van,Piaggio,2020,1019,Retired
+VEH00720,OD03LP3384,Trailer,Bajaj,2022,22566,Under Maintenance
+VEH00296,MH48GE2752,Container Truck,Force Motors,2021,7053,Active
+VEH01017,AP55QC3145,Mini Truck,Ashok Leyland,2016,763,Retired
+VEH01276,JH94JX1065,Three-Wheeler,Bajaj,2020,228,  Active  
+VEH00456,MH13KZ5818,Two-Wheeler,Mahindra,2019,11,Retired
+VEH01433,MH70JB0123,Three-Wheeler,Eicher,2025,251,Active
+VEH00816,DL14ML7601,Trailer,Force Motors,2023,29393,Active
+VEH00270,AP17XN6243,Container Truck,Mahindra,2022,14792,Active
+VEH00996,BR60KH6463,Mini Truck,Piaggio,2015,1338,Active
+VEH00202,WB10IM6917,Three-Wheeler,Eicher,2020,209,Active
+VEH00162,GJ97VY2847,Container Truck,Ashok Leyland,2017,13616,Active
+VEH00730,BR58UR4886,TRAILER,Force Motors,2024,13792,Active
+VEH00402,HR82EA9892,Tempo,Piaggio,2014,1110,Active
+VEH00703,TN34ML1082,Trailer,Tata,2017,19968,Active
+VEH01130,BR31RI6570,Tempo,Piaggio,2021,1515,Active
+VEH00566,MP51OF6943,Two-Wheeler,Piaggio,2022,22,Active
+VEH01414,MH72TA7758,Container Truck,Piaggio,2015,16677,Under Maintenance
+VEH01022,OD93BA5315,Trailer,Ashok Leyland,2014,17440,Active
+VEH01026,HR91IM0629,Tempo,Eicher,2016,1054,Active
+VEH01412,JH62NV8808,Pickup Van,Mahindra,2014,1007,Active
+VEH01105,JH08KU4052,Trailer,Force Motors,2012,27967,Under Maintenance
+VEH00206,BR95QF3335,Trailer,Tata,2020,24321,Active
+VEH00035,WB32RP2301,Mini Truck,Ashok Leyland,2020,1255,Retired
+VEH00776,JH94KH8168,Two-Wheeler,Tata,2022,18,Active
+VEH00509,KA93MW0124,Two-Wheeler,Bajaj,2020,29,Under Maintenance
+VEH01491,PB18QR2573,Container Truck,Eicher,2024,15875,Active
+VEH01391,AP43WS8384,Tempo,Tata,2020,1808,Active
+VEH00092,AP50RJ8682,Two-Wheeler,Bajaj,2021,14,Active
+VEH01364,AP99AM7137,Mini Truck,Mahindra,2016,1148,Under Maintenance
+VEH00898,KA08NG8589,Trailer,Tata,2021,10142,Retired
+VEH00565,PB69FV8501,Mini Truck,Force Motors,2023,933.00,Retired
+VEH01370,TN04TQ6927,Tempo,Ashok Leyland,2025,2032,Retired
+VEH00777,RJ63ID6326,Tempo,Ashok Leyland,2014,1976,Under Maintenance
+VEH00242,TN61XQ4945,Container Truck,Piaggio,2023,6643,Active
+VEH00014,GJ68GK6219,Tempo,Bajaj,2014,1142,Under Maintenance
+VEH00316,AS51EE0912,Trailer,Ashok Leyland,2019,12554,Under Maintenance
+VEH00601,KL36RI6545,Three-Wheeler,Force Motors,2013,197,Active
+VEH00388,MP38MJ9670,Pickup Van,Mahindra,2024,677,Under Maintenance
+VEH01298,TG54QA9251,Mini Truck,Mahindra,2023,1334,Under Maintenance
+VEH00167,CH75II6542,Tempo,Piaggio,2019,1393,Active
+VEH00841,JH72WS6648,Two-Wheeler,Eicher,2024,19,Active
+VEH00021,CH28JF9420,Tempo,Ashok Leyland,2031,1563,Active
+VEH00647,HR07UW7972,Three-Wheeler,Mahindra,2023,62,Retired
+VEH01155,MH67JP3625,Mini Truck,Force Motors,2022,723,Active
+VEH00832,KL22JY5965,Three-Wheeler,Eicher,2025,195 kg,Active
+VEH01268,OD36AD0904,Two-Wheeler,Piaggio,2018,15,UNDER MAINTENANCE
+VEH00563,MP55RB5519,Pickup Van,Eicher,2017,554,Active
+VEH01476,JH14KE8274,Container Truck,Tata,2020,16330,Active
+VEH00687,CH12CB3772,Container Truck,Force Motors,2020,11067,Retired
+VEH00958,HR92JO0769,Container Truck,Force Motors,2021,13308,unknown
+VEH00190,AP45CT7218,Mini Truck,Ashok Leyland,2022,674,Retired
+VEH00976,BR59ZR6799,Container Truck,Piaggio,2016,18665,Active
+VEH00700,CH40ZQ6126,Container Truck,Mahindra,2024,6070,Retired
+VEH00511,MP48OF5216,Container Truck,Ashok Leyland,2020,-12878,Active
+VEH01083,UK07BI1554,Mini Truck,Ashok Leyland,2014,1461,Active
+VEH00475,MH46GW0632,Mini Truck,Eicher,2015,930,Active
+VEH00857,AP50HM5226,Pickup Van,Mahindra,2020,583,Active
+VEH00748,DL49WR0480,Two-Wheeler,Ashok Leyland,2025,7,Retired
+VEH00253,TG81DD8367,Container-Truck,Eicher,2025,15790,Active
+VEH00022,dl24mc2134,Trailer,Force Motors,2016,25244,Under Maintenance
+VEH01338,KL49GG8494,Trailer,Eicher,2022,16899,RETIRED
+VEH00460,MP98ZQ5353,Mini Truck,Ashok Leyland,2014,569,Active
+VEH01185,DL94BA1114,Container Truck,Bajaj,2016,14355,Retired
+VEH00277,TN18VC9933,Two-Wheeler,Force Motors,2024,28,Retired
+VEH00956,RJ60PY1601,Mini Truck,Eicher,2012,683,Under Maintenance
+VEH01216,CH36SF6473,Three-Wheeler,Eicher,2014,228,Active
+VEH00386,RJ96AS5681,Mini Truck,Bajaj,2023,855,Active
+VEH00806,UP41SX7038,Tempo,Piaggio,2017,2438,Active
+VEH01438,KA75SJ0972,Two-Wheeler,Bajaj,2025,19,Active
+VEH00344,MP99MN4113,Trailer,Force Motors,2018,18433,Retired
+VEH00770,TG99IY3036,Three-Wheeler,Eicher,2013,INR 250.00,Active
+VEH01333,UK73QL2472,Trailer,Force Motors,2017,27121,Retired
+VEH00131,OD62DH8164,Container Truck,Mahindra,2020,6653,Active
+VEH00872,OD31CN4264,Three-Wheeler,Ashok Leyland,2021,113,Active
+VEH01124,OD78ZB0992,Three-Wheeler,Ashok Leyland,2013,104,Under Maintenance
+VEH01397,BR70HF8907,Two-Wheeler,Eicher,2014,12,Retired
+VEH00088,TN36JM1383,Trailer,Ashok Leyland,2017,INR 29863.00,Active
+VEH01483,GJ32GC9989,Mini Truck,Mahindra,2023,1246,Active
+VEH00331,TN37JA1221,Container Truck,Force Motors,2014,6793,Active
+VEH01239,DL68BT8919,Three-Wheeler,Mahindra,2018,101,Retired
+VEH00467,GJ21YI7704,Three-Wheeler,Bajaj,2015,238,Active
+VEH00122,TN73JN7288,Three-Wheeler,Tata,2022,201,Retired
+VEH01045,TG75NI4070,Two-Wheeler,Ashok Leyland,2021,10,Active
+VEH01096,TG66PK0886,trailer,Mahindra,2015,25569,Retired
+VEH01131,JH23HO8500,Two-Wheeler,Bajaj,2021,22,Under Maintenance
+VEH01295,AS76RQ7957,Container Truck,Mahindra,2021,16350,Active
+VEH00861,DL69VE8331,Pickup Van,Bajaj,2012,844,Under Maintenance
+VEH01460,CH30FR1380,Trailer,Ashok Leyland,2018,23867,Retired
+VEH01127,UK96KJ4978,Pickup Van,Ashok Leyland,2020,945,Retired
