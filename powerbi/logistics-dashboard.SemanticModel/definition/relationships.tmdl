@@ -1,0 +1,28 @@
+relationship 50789d90-f3f6-aaa1-adf8-8bf4ecae54ec
+	fromColumn: 'gold fact_shipments'.customer_id
+	toColumn: 'gold dim_customers'.customer_id
+
+relationship 4b3de239-0832-7eb7-a56a-1e6b6ba47b46
+	fromColumn: 'gold fact_shipments'.route_id
+	toColumn: 'gold dim_routes'.route_id
+
+relationship 48ce5105-47c1-00e5-1aef-a0638916a09f
+	fromColumn: 'gold fact_shipments'.warehouse_id
+	toColumn: 'gold dim_warehouses'.warehouse_id
+
+relationship 4c3b9344-05c5-e61a-8d5b-5d379d874060
+	fromColumn: 'gold fact_shipments'.driver_id
+	toColumn: 'gold dim_drivers'.driver_id
+
+relationship eb584aab-7988-dbf4-6f59-453698ef4684
+	fromColumn: 'gold fact_shipments'.vehicle_id
+	toColumn: 'gold dim_vehicles'.vehicle_id
+
+relationship 9515e919-494b-ab6c-5e47-8b7f9fb1a6fc
+	fromColumn: 'gold fact_shipments'.shipment_date
+	toColumn: 'gold dim_date'.full_date
+
+relationship ad8ba8b0-96cc-c4ef-8a2a-b1383f331e3f
+	fromColumn: 'gold fact_delivery_events'.shipment_id
+	toColumn: 'gold fact_shipments'.shipment_id
+

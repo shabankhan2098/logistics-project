@@ -1,0 +1,90 @@
+table 'gold dim_warehouses'
+	lineageTag: e47c771b-d259-457c-85a8-fe3c62117ac8
+
+	column warehouse_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: ec285a4d-32b2-4e36-9c28-1c7e54362c50
+		summarizeBy: none
+		sourceColumn: warehouse_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column warehouse_name
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: e9eda76a-c163-4dee-a52d-8b3a084cf82b
+		summarizeBy: none
+		sourceColumn: warehouse_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column city
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: dabb9bb8-d9d2-4d99-b8f2-97a10145931a
+		summarizeBy: none
+		sourceColumn: city
+
+		annotation SummarizationSetBy = Automatic
+
+	column state
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: bdc70eea-38de-47ca-824d-1b7e42dd8a43
+		summarizeBy: none
+		sourceColumn: state
+
+		annotation SummarizationSetBy = Automatic
+
+	column pincode
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 014c6c08-5348-4282-ae96-26b3d51ee91d
+		summarizeBy: none
+		sourceColumn: pincode
+
+		annotation SummarizationSetBy = Automatic
+
+	column capacity_units
+		dataType: int64
+		formatString: 0
+		sourceProviderType: bigint
+		lineageTag: 57cf7fef-096e-40c0-bfad-f1e9895101f1
+		summarizeBy: none
+		sourceColumn: capacity_units
+
+		annotation SummarizationSetBy = Automatic
+
+	column manager_name
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: e8c16e61-a00f-4eda-8f7b-5ef582e449de
+		summarizeBy: none
+		sourceColumn: manager_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column operational_since
+		dataType: dateTime
+		formatString: Long Date
+		sourceProviderType: date
+		lineageTag: d89a25a1-38b3-4a08-84d1-b4fbf3728d55
+		summarizeBy: none
+		sourceColumn: operational_since
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	partition 'gold dim_warehouses' = m
+		mode: directQuery
+		source =
+				let
+				    Source = PostgreSQL.Database("localhost:5432", "logistics_project"),
+				    gold_dim_warehouses = Source{[Schema="gold",Item="dim_warehouses"]}[Data]
+				in
+				    gold_dim_warehouses
+
+	annotation PBI_ResultType = Table
+

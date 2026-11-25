@@ -1,0 +1,255 @@
+table 'gold fact_shipments'
+	lineageTag: 7b6cf1da-18a8-4bc1-a463-5854d8140eba
+
+	column shipment_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 3087c88a-a476-423d-950c-bd71908c15ba
+		summarizeBy: none
+		sourceColumn: shipment_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column customer_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 89bd4b52-7b69-4ee5-b892-2af08339c1e4
+		summarizeBy: none
+		sourceColumn: customer_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column warehouse_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 5a370740-acee-46ae-97c6-ce435824be6b
+		summarizeBy: none
+		sourceColumn: warehouse_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column driver_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: bc7a3cbb-fdc8-48e7-89a5-41d8d94a6af4
+		summarizeBy: none
+		sourceColumn: driver_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column vehicle_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 280e3a73-8b40-45c3-83cf-688d349590ee
+		summarizeBy: none
+		sourceColumn: vehicle_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column route_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 8a6ab7e6-4a5a-473b-8647-3553e23c1e55
+		summarizeBy: none
+		sourceColumn: route_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column shipment_date
+		dataType: dateTime
+		formatString: Long Date
+		sourceProviderType: date
+		lineageTag: 2d6c5fcf-097e-4078-8819-78c82d4f23b5
+		summarizeBy: none
+		sourceColumn: shipment_date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column expected_delivery_date
+		dataType: dateTime
+		formatString: Long Date
+		sourceProviderType: date
+		lineageTag: 89607441-9260-4e26-a217-dd104cfcdcdd
+		summarizeBy: none
+		sourceColumn: expected_delivery_date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column actual_delivery_date
+		dataType: dateTime
+		formatString: Long Date
+		sourceProviderType: date
+		lineageTag: c03c60b7-c241-4ea1-9be9-98eed93e853b
+		summarizeBy: none
+		sourceColumn: actual_delivery_date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column package_type
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 13ccb235-722f-418a-a500-3b18b1a2671f
+		summarizeBy: none
+		sourceColumn: package_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column payment_method
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: b085220c-5b29-40f5-9049-0e92153702fa
+		summarizeBy: none
+		sourceColumn: payment_method
+
+		annotation SummarizationSetBy = Automatic
+
+	column shipment_status
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 46b24cd8-1cd9-40da-a9c1-5d64941dd9e5
+		summarizeBy: none
+		sourceColumn: shipment_status
+
+		annotation SummarizationSetBy = Automatic
+
+	column weight_kg
+		dataType: double
+		sourceProviderType: double
+		lineageTag: 187fd24c-a642-4ee6-90ae-ed6230f76cb2
+		summarizeBy: sum
+		sourceColumn: weight_kg
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column distance_km
+		dataType: double
+		sourceProviderType: double
+		lineageTag: 6556bde8-a6ea-4561-841e-144adc42a637
+		summarizeBy: sum
+		sourceColumn: distance_km
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column shipping_cost_inr
+		dataType: double
+		sourceProviderType: double
+		lineageTag: 644c16c4-5993-4a14-8d8a-fe9eb76485f4
+		summarizeBy: sum
+		sourceColumn: shipping_cost_inr
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column cost_per_km
+		dataType: double
+		sourceProviderType: double
+		lineageTag: 69deb077-301e-4d1f-8e03-f8e3236cdb87
+		summarizeBy: sum
+		sourceColumn: cost_per_km
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column cost_per_kg
+		dataType: double
+		sourceProviderType: double
+		lineageTag: aa7ab49e-2bb5-46ac-ad96-4b62133fc6d0
+		summarizeBy: sum
+		sourceColumn: cost_per_kg
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column delivery_rating
+		dataType: int64
+		formatString: 0
+		sourceProviderType: bigint
+		lineageTag: 669a71a4-38b7-4c34-88c1-aaace2276ae1
+		summarizeBy: sum
+		sourceColumn: delivery_rating
+
+		annotation SummarizationSetBy = Automatic
+
+	column planned_days
+		dataType: int64
+		formatString: 0
+		sourceProviderType: bigint
+		lineageTag: c8ead8dd-f8e5-473f-9312-09dff671ab23
+		summarizeBy: sum
+		sourceColumn: planned_days
+
+		annotation SummarizationSetBy = Automatic
+
+	column actual_days
+		dataType: int64
+		formatString: 0
+		sourceProviderType: bigint
+		lineageTag: f6718ff6-4644-4c00-a5d8-bdc165bbb0db
+		summarizeBy: sum
+		sourceColumn: actual_days
+
+		annotation SummarizationSetBy = Automatic
+
+	column delay_days
+		dataType: int64
+		formatString: 0
+		sourceProviderType: bigint
+		lineageTag: f0f8d576-95e9-487a-938f-9a137018d832
+		summarizeBy: sum
+		sourceColumn: delay_days
+
+		annotation SummarizationSetBy = Automatic
+
+	column delivery_result
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 93ff72fa-67e6-4d03-9cf1-59dbc58ff7cb
+		summarizeBy: none
+		sourceColumn: delivery_result
+
+		annotation SummarizationSetBy = Automatic
+
+	column is_on_time
+		dataType: int64
+		formatString: 0
+		sourceProviderType: bigint
+		lineageTag: 20f5fc1c-15a7-4201-8d98-b4c986282509
+		summarizeBy: sum
+		sourceColumn: is_on_time
+
+		annotation SummarizationSetBy = Automatic
+
+	column is_late
+		dataType: int64
+		formatString: 0
+		sourceProviderType: bigint
+		lineageTag: 4d0c6a82-833c-485e-b523-80a0fd3ef09a
+		summarizeBy: sum
+		sourceColumn: is_late
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'gold fact_shipments' = m
+		mode: directQuery
+		source =
+				let
+				    Source = PostgreSQL.Database("localhost:5432", "logistics_project"),
+				    gold_fact_shipments = Source{[Schema="gold",Item="fact_shipments"]}[Data]
+				in
+				    gold_fact_shipments
+
+	annotation PBI_ResultType = Table
+

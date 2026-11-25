@@ -1,0 +1,90 @@
+table 'gold dim_routes'
+	lineageTag: de67c334-1c37-4052-88d8-ddfc4208a259
+
+	column route_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 663b278c-1f44-4e4e-b68b-05fcb8642d6d
+		summarizeBy: none
+		sourceColumn: route_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column origin_city
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 9822fbd6-297b-44f2-a917-914699ef5161
+		summarizeBy: none
+		sourceColumn: origin_city
+
+		annotation SummarizationSetBy = Automatic
+
+	column origin_state
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 518eec90-0570-444a-84b0-464b6604dc87
+		summarizeBy: none
+		sourceColumn: origin_state
+
+		annotation SummarizationSetBy = Automatic
+
+	column destination_city
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 47236673-4de5-49a8-9352-cd65c4405b37
+		summarizeBy: none
+		sourceColumn: destination_city
+
+		annotation SummarizationSetBy = Automatic
+
+	column destination_state
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 5e0a1d1d-7667-45b0-a05b-45343c6955ff
+		summarizeBy: none
+		sourceColumn: destination_state
+
+		annotation SummarizationSetBy = Automatic
+
+	column distance_km
+		dataType: double
+		sourceProviderType: double
+		lineageTag: 9aaedf4e-77da-4086-8e7a-1fa9c94e6cc7
+		summarizeBy: none
+		sourceColumn: distance_km
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column avg_duration_hr
+		dataType: double
+		sourceProviderType: double
+		lineageTag: 204871f8-5c80-40e9-916b-887526f227b7
+		summarizeBy: none
+		sourceColumn: avg_duration_hr
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column route_name
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 6687cfa9-17ac-4039-b234-e47a22473c66
+		summarizeBy: none
+		sourceColumn: route_name
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'gold dim_routes' = m
+		mode: directQuery
+		source =
+				let
+				    Source = PostgreSQL.Database("localhost:5432", "logistics_project"),
+				    gold_dim_routes = Source{[Schema="gold",Item="dim_routes"]}[Data]
+				in
+				    gold_dim_routes
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,83 @@
+table 'gold dim_drivers'
+	lineageTag: 3a91f611-6cba-4dd8-84a8-4b811ccff9b8
+
+	column driver_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 66f79665-7b08-4746-b372-02a335413a19
+		summarizeBy: none
+		sourceColumn: driver_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column driver_name
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 39e079d8-2420-4163-8cfc-ab302dd69976
+		summarizeBy: none
+		sourceColumn: driver_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column gender
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 550ed6cc-9e6d-443b-9554-196c218b9362
+		summarizeBy: none
+		sourceColumn: gender
+
+		annotation SummarizationSetBy = Automatic
+
+	column city
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: bcb589e6-4992-436d-9039-a9d7c1297f54
+		summarizeBy: none
+		sourceColumn: city
+
+		annotation SummarizationSetBy = Automatic
+
+	column experience_years
+		dataType: int64
+		formatString: 0
+		sourceProviderType: bigint
+		lineageTag: 147e8c5b-f050-48c2-b304-ea8bff161641
+		summarizeBy: none
+		sourceColumn: experience_years
+
+		annotation SummarizationSetBy = Automatic
+
+	column driver_rating
+		dataType: double
+		sourceProviderType: double
+		lineageTag: a6a12930-28e3-4e5c-993a-431cb19881b7
+		summarizeBy: none
+		sourceColumn: driver_rating
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column join_date
+		dataType: dateTime
+		formatString: Long Date
+		sourceProviderType: date
+		lineageTag: 93230b96-1796-412b-bde3-7052fcff6c49
+		summarizeBy: none
+		sourceColumn: join_date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	partition 'gold dim_drivers' = m
+		mode: directQuery
+		source =
+				let
+				    Source = PostgreSQL.Database("localhost:5432", "logistics_project"),
+				    gold_dim_drivers = Source{[Schema="gold",Item="dim_drivers"]}[Data]
+				in
+				    gold_dim_drivers
+
+	annotation PBI_ResultType = Table
+

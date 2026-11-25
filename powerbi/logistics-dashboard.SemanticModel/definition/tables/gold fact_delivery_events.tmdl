@@ -1,0 +1,81 @@
+table 'gold fact_delivery_events'
+	lineageTag: 2813d380-d067-4c6f-9413-0c2748d781be
+
+	column event_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 25bd13bb-b63d-4a51-ba26-4a0c510f1af4
+		summarizeBy: none
+		sourceColumn: event_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column shipment_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: cfad5f58-187d-48a0-bf84-fb8ae28f9678
+		summarizeBy: none
+		sourceColumn: shipment_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column event_type
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 80e95866-50aa-4dea-9956-d98a75bbd675
+		summarizeBy: none
+		sourceColumn: event_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column event_timestamp
+		dataType: dateTime
+		formatString: General Date
+		sourceProviderType: datetime2
+		lineageTag: 0f572634-bbd5-40bb-af9a-29df7af00c9e
+		summarizeBy: none
+		sourceColumn: event_timestamp
+
+		annotation SummarizationSetBy = Automatic
+
+	column location_city
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: a6853c46-92d6-4e48-a978-dedb16c69c6e
+		summarizeBy: none
+		sourceColumn: location_city
+
+		annotation SummarizationSetBy = Automatic
+
+	column remarks
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 387e7166-65f7-4670-afa0-25aade60b528
+		summarizeBy: none
+		sourceColumn: remarks
+
+		annotation SummarizationSetBy = Automatic
+
+	column event_date
+		dataType: dateTime
+		formatString: Long Date
+		sourceProviderType: date
+		lineageTag: 4428f496-ce02-44df-81cc-b8a0ae810187
+		summarizeBy: none
+		sourceColumn: event_date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	partition 'gold fact_delivery_events' = m
+		mode: directQuery
+		source =
+				let
+				    Source = PostgreSQL.Database("localhost:5432", "logistics_project"),
+				    gold_fact_delivery_events = Source{[Schema="gold",Item="fact_delivery_events"]}[Data]
+				in
+				    gold_fact_delivery_events
+
+	annotation PBI_ResultType = Table
+

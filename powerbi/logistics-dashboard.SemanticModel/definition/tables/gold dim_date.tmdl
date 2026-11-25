@@ -1,0 +1,111 @@
+table 'gold dim_date'
+	lineageTag: cf3a0be0-7de2-4913-bc08-1481e401f9d7
+
+	column full_date
+		dataType: dateTime
+		formatString: Long Date
+		sourceProviderType: date
+		lineageTag: e4332a02-5917-49f2-9b57-85f9fdc466ac
+		summarizeBy: none
+		sourceColumn: full_date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column year
+		dataType: int64
+		formatString: 0
+		sourceProviderType: int
+		lineageTag: 3176588e-3a61-445b-ac0e-e14d4ccef65c
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column quarter
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 87075e87-13e0-4626-bdbf-eb5b6e40232f
+		summarizeBy: none
+		sourceColumn: quarter
+
+		annotation SummarizationSetBy = Automatic
+
+	column month_number
+		dataType: int64
+		formatString: 0
+		sourceProviderType: int
+		lineageTag: 33d529e8-b787-41d4-9439-59fd7c8cce45
+		summarizeBy: none
+		sourceColumn: month_number
+
+		annotation SummarizationSetBy = Automatic
+
+	column month_name
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 107f2b4f-c72b-486d-a75f-cd7f61b0100a
+		summarizeBy: none
+		sourceColumn: month_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column year_month
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: c2bc1115-8441-43a1-93be-dbf721a49add
+		summarizeBy: none
+		sourceColumn: year_month
+
+		annotation SummarizationSetBy = Automatic
+
+	column day
+		dataType: int64
+		formatString: 0
+		sourceProviderType: int
+		lineageTag: 359ddd5c-9209-4055-b4eb-e6081e0c4a93
+		summarizeBy: none
+		sourceColumn: day
+
+		annotation SummarizationSetBy = Automatic
+
+	column weekday_number
+		dataType: int64
+		formatString: 0
+		sourceProviderType: int
+		lineageTag: 44db7bb4-7226-4834-a121-8a4bf70fecaf
+		summarizeBy: none
+		sourceColumn: weekday_number
+
+		annotation SummarizationSetBy = Automatic
+
+	column weekday_name
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 7f05552e-8cb7-43d3-ab58-3d38d2cc73a7
+		summarizeBy: none
+		sourceColumn: weekday_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column day_type
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 4d59a44f-dd52-4eca-8b24-9884a190690c
+		summarizeBy: none
+		sourceColumn: day_type
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'gold dim_date' = m
+		mode: directQuery
+		source =
+				let
+				    Source = PostgreSQL.Database("localhost:5432", "logistics_project"),
+				    gold_dim_date = Source{[Schema="gold",Item="dim_date"]}[Data]
+				in
+				    gold_dim_date
+
+	annotation PBI_ResultType = Table
+

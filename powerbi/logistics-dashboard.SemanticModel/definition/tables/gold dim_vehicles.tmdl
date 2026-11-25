@@ -1,0 +1,90 @@
+table 'gold dim_vehicles'
+	lineageTag: f5c33292-55c4-41a9-a517-e73b72873db1
+
+	column vehicle_id
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 2c62c945-2921-4b4e-9658-55793dfb976c
+		summarizeBy: none
+		sourceColumn: vehicle_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column vehicle_number
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: fb965d8d-0a55-45a1-a316-7c58989edd8e
+		summarizeBy: none
+		sourceColumn: vehicle_number
+
+		annotation SummarizationSetBy = Automatic
+
+	column vehicle_type
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 39d5eebb-73d3-4fb3-b9ce-014e58d61957
+		summarizeBy: none
+		sourceColumn: vehicle_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column make
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 27ac8aec-b786-4053-86e9-be7074fb2cf0
+		summarizeBy: none
+		sourceColumn: make
+
+		annotation SummarizationSetBy = Automatic
+
+	column year
+		dataType: int64
+		formatString: 0
+		sourceProviderType: bigint
+		lineageTag: e2877c42-4ce6-4474-b74e-7bb3c81b61d1
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = Automatic
+
+	column capacity_kg
+		dataType: double
+		sourceProviderType: double
+		lineageTag: 23b49bfa-6256-4f01-81df-055bfcd6e27b
+		summarizeBy: none
+		sourceColumn: capacity_kg
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column status
+		dataType: string
+		sourceProviderType: nvarchar(max)
+		lineageTag: 9f4503a5-bc51-445a-a190-82f60bd31aca
+		summarizeBy: none
+		sourceColumn: status
+
+		annotation SummarizationSetBy = Automatic
+
+	column vehicle_age
+		dataType: int64
+		formatString: 0
+		sourceProviderType: bigint
+		lineageTag: 7705c287-7427-4563-9935-563d90c5aaa6
+		summarizeBy: none
+		sourceColumn: vehicle_age
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'gold dim_vehicles' = m
+		mode: directQuery
+		source =
+				let
+				    Source = PostgreSQL.Database("localhost:5432", "logistics_project"),
+				    gold_dim_vehicles = Source{[Schema="gold",Item="dim_vehicles"]}[Data]
+				in
+				    gold_dim_vehicles
+
+	annotation PBI_ResultType = Table
+

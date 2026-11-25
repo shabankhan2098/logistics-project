@@ -1,0 +1,126 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 74.856792469400972
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "gold dim_customers",
+          "nodeLineageTag": "577bf373-2828-40fb-9d02-9cce344bd12e",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 560.662098699391,
+            "y": 682.87727007800459
+          },
+          "nodeIndex": "gold dim_date",
+          "nodeLineageTag": "cf3a0be0-7de2-4913-bc08-1481e401f9d7",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 2.7548323739113982,
+            "y": 687.46033900470275
+          },
+          "nodeIndex": "gold dim_drivers",
+          "nodeLineageTag": "3a91f611-6cba-4dd8-84a8-4b811ccff9b8",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 317.3086252185646,
+            "y": 0
+          },
+          "nodeIndex": "gold dim_routes",
+          "nodeLineageTag": "de67c334-1c37-4052-88d8-ddfc4208a259",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 289.65993820309927,
+            "y": 683.12806329791078
+          },
+          "nodeIndex": "gold dim_vehicles",
+          "nodeLineageTag": "f5c33292-55c4-41a9-a517-e73b72873db1",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 631.7121446079409,
+            "y": 0
+          },
+          "nodeIndex": "gold dim_warehouses",
+          "nodeLineageTag": "e47c771b-d259-457c-85a8-fe3c62117ac8",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 541.18485896094967,
+            "y": 365.84482111633633
+          },
+          "nodeIndex": "gold fact_delivery_events",
+          "nodeLineageTag": "2813d380-d067-4c6f-9413-0c2748d781be",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 272.85258644779583,
+            "y": 354.34782233790287
+          },
+          "nodeIndex": "gold fact_shipments",
+          "nodeLineageTag": "7b6cf1da-18a8-4bc1-a463-5854d8140eba",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 6
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 65.458321661363755,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
